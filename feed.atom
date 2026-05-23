@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ClaudSkills — Recently Updated Skills</title>
+  <link href="https://claudskills.com/"/>
+  <link rel="self" href="https://github.com/claudskills/catalog-public/raw/main/feed.atom"/>
+  <id>https://github.com/claudskills/catalog-public/feed.atom</id>
+  <updated>2026-05-23T15:12:52Z</updated>
+  <author><name>ClaudSkills</name></author>
+  <entry>
+    <title>zx</title>
+    <link href="https://claudskills.com/skills/zx/"/>
+    <id>https://claudskills.com/skills/zx/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>LeoYeAI</name></author>
+    <summary>Comprehensive guide for writing shell scripts with Google zx — a tool for writing better scripts using JavaScript/TypeScript. Use when writing, debugging, or refactoring zx scripts (.mjs, .js, .ts files using zx), executing shell commands from JavaScript, working with ProcessPromise/ProcessOutput APIs, piping streams, configuring zx options, or using zx CLI.  Do NOT use for general Node.js questions unrelated to shell scripting.</summary>
+  </entry>
+  <entry>
+    <title>zufriedenheitsformel-decodierung</title>
+    <link href="https://claudskills.com/skills/zufriedenheitsformel-decodierung/"/>
+    <id>https://claudskills.com/skills/zufriedenheitsformel-decodierung/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Decodiert die fünfstufige Zufriedenheitsformel deutscher Arbeitszeugnisse: von Note 1 bis Note 5. Tabellarische Ampelzuordnung aller Standardformulierungen mit Erklärung der sprachlichen Feinheiten und ihrer rechtlichen Bedeutung.</summary>
+  </entry>
+  <entry>
+    <title>zread-expert</title>
+    <link href="https://claudskills.com/skills/zread-expert/"/>
+    <id>https://claudskills.com/skills/zread-expert/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>owner</name></author>
+    <summary>Deep repository analysis skill for Z.AI Zread MCP.</summary>
+  </entry>
+  <entry>
+    <title>zotero-mcp-code</title>
+    <link href="https://claudskills.com/skills/zotero-mcp-code-neversight/"/>
+    <id>https://claudskills.com/skills/zotero-mcp-code-neversight/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>diegosouzapw</name></author>
+    <summary>Search Zotero library using code execution for efficient multi-strategy searches without crash risks. Use this skill when the user needs comprehensive Zotero searches with automatic deduplication and ranking.</summary>
+  </entry>
+  <entry>
+    <title>zotero-fetcher</title>
+    <link href="https://claudskills.com/skills/zotero-inbox-builder/"/>
+    <id>https://claudskills.com/skills/zotero-inbox-builder/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>ZERO-A-ONE</name></author>
+    <summary>从 Zotero 兴趣画像出发抓取 arXiv 论文，排序后写入标准化 inbox Markdown。适用于收集论文、更新研究 feed、生成每日候选话题。</summary>
+  </entry>
+  <entry>
+    <title>zolltarif-vzta-antrag</title>
+    <link href="https://claudskills.com/skills/zolltarif-vzta-antrag/"/>
+    <id>https://claudskills.com/skills/zolltarif-vzta-antrag/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>borghei</name></author>
+    <summary>Tarifierung einer Ware in TARIC nach den Allgemeinen Vorschriften AV 1–6 und Entwurf eines Antrags auf verbindliche Zolltarifauskunft (vZTA) nach Art. 33 UZK – mit Abgrenzung zur verbindlichen Ursprungsauskunft (vUA), nicht-präferenziellem vs. präferenziellem Ursprung und ATLAS-Antragsverfahren. Use when ein Importeur/Exporteur eine streitige Tarifierung absichern will, eine verbindliche Auskunft beim Zoll beantragen möchte oder eine Ablehnung anfechten will.</summary>
+  </entry>
+  <entry>
+    <title>zoe</title>
+    <link href="https://claudskills.com/skills/zoe/"/>
+    <id>https://claudskills.com/skills/zoe/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>atm301</name></author>
+    <summary>執行特助 Zoe (Chief of Staff) — 彙整、排程、會議紀錄、跨角色協調。Use when user mentions 週報/月報/彙整/summary/排程/schedule/會議紀錄/meeting notes/待辦/todo/追蹤, or asks to 整理跨角色產出 or 寫 email. 不出主意，把事情串起來，最後收尾的人。</summary>
+  </entry>
+  <entry>
+    <title>zod-validation-patterns</title>
+    <link href="https://claudskills.com/skills/zod-validation-patterns/"/>
+    <id>https://claudskills.com/skills/zod-validation-patterns/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>aiskillstore</name></author>
+    <summary>This skill provides comprehensive patterns for using Zod validation library in TypeScript applications. It ensures input validation is done correctly, securely, and consistently across the codebase.</summary>
+  </entry>
+  <entry>
+    <title>Zod v4 Migration and New APIs</title>
+    <link href="https://claudskills.com/skills/zod-v4-migration/"/>
+    <id>https://claudskills.com/skills/zod-v4-migration/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>radesjardins</name></author>
+    <summary>This skill should be used when the user asks about "Zod 4", "Zod v4", "upgrading to Zod 4", "Zod 4 breaking changes", "Zod 4 migration", "z.merge deprecated", "Zod 4 error parameter", "z.config", "Zod registries", "z.meta", "ZodMini", "z.file", "z.templateLiteral", "z.toJSONSchema", "Zod 4 vs Zod 3", "Zod 4 optional default behavior", or "Zod 4 performance". Covers Zod v4 architecture, all breaking changes, new APIs, and migration strategies.</summary>
+  </entry>
+  <entry>
+    <title>Zod Security</title>
+    <link href="https://claudskills.com/skills/zod-security/"/>
+    <id>https://claudskills.com/skills/zod-security/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>radesjardins</name></author>
+    <summary>This skill should be used when the user asks about "Zod security", "Zod over-posting attack", "mass assignment Zod", "z.strictObject security", "z.custom security", "Zod coercion vulnerability", "Zod default PATCH bug", "Zod data loss", "Zod reportInput PII", "exposing ZodError to client", "Zod security review", "reviewing Zod validation code", or when performing a code review on TypeScript files that use Zod. Provides a comprehensive security model and review checklist for Zod usage.</summary>
+  </entry>
+  <entry>
+    <title>Zod Schema Design</title>
+    <link href="https://claudskills.com/skills/zod-schema-design/"/>
+    <id>https://claudskills.com/skills/zod-schema-design/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>radesjardins</name></author>
+    <summary>This skill should be used when the user asks about "composing Zod schemas", "extending a schema", "Zod pick omit partial", "discriminatedUnion vs union", "Zod transforms", "Zod refinements", "z.refine vs z.check", "Zod pipe", "input output types", "z.infer input output", "Zod branded types", "recursive schemas", "Zod lazy", or is designing data models with Zod schemas. Provides comprehensive patterns for schema composition, transformation, and refinement.</summary>
+  </entry>
+  <entry>
+    <title>Zod Framework Integrations</title>
+    <link href="https://claudskills.com/skills/zod-integrations/"/>
+    <id>https://claudskills.com/skills/zod-integrations/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>radesjardins</name></author>
+    <summary>This skill should be used when the user asks about "Zod with Fastify", "Zod type provider", "fastify-type-provider-zod", "Zod with Next.js", "Zod server actions", "Zod React Hook Form", "zodResolver", "Zod tRPC", "Zod monorepo", "shared Zod schemas", "Zod shared package", "Zod dual instance error", "ID already exists registry", "Zod frontend backend", "Zod AI SDK", or when integrating Zod with any web framework. Provides patterns for all major framework integrations and monorepo architecture.</summary>
+  </entry>
+  <entry>
+    <title>Zod Error Handling</title>
+    <link href="https://claudskills.com/skills/zod-error-handling/"/>
+    <id>https://claudskills.com/skills/zod-error-handling/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>radesjardins</name></author>
+    <summary>This skill should be used when the user asks about "Zod error handling", "parse vs safeParse", "ZodError", "z.treeifyError", "z.flattenError", "z.prettifyError", "formatting Zod errors", "Zod error messages", "custom Zod errors", "z.config error map", "Zod error precedence", "Zod validation errors for API response", or "how to display Zod errors to users". Provides comprehensive guidance on Zod's error system, formatting utilities, and customization.</summary>
+  </entry>
+  <entry>
+    <title>Zod Best Practices</title>
+    <link href="https://claudskills.com/skills/zod-best-practices/"/>
+    <id>https://claudskills.com/skills/zod-best-practices/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>radesjardins</name></author>
+    <summary>This skill should be used when the user asks about "how to use Zod", "where should I put Zod validation", "Zod best practices", "should I use Zod here", "Zod vs TypeScript types", "parse don't validate", "overvalidation", "Zod single source of truth", or when reviewing or writing TypeScript code that imports from "zod". Provides the core mental model and foundational rules for effective Zod usage.</summary>
+  </entry>
+  <entry>
+    <title>zod</title>
+    <link href="https://claudskills.com/skills/zod/"/>
+    <id>https://claudskills.com/skills/zod/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>ClaudSkills</name></author>
+    <summary>Zod schema validation and type inference.</summary>
+  </entry>
+  <entry>
+    <title>zlibrary-to-notebooklm</title>
+    <link href="https://claudskills.com/skills/zlibrary-to-notebooklm/"/>
+    <id>https://claudskills.com/skills/zlibrary-to-notebooklm/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>aiskillstore</name></author>
+    <summary>自动从 Z-Library 下载书籍并上传到 Google NotebookLM。支持 PDF/EPUB 格式，自动转换，一键创建知识库。</summary>
+  </entry>
+  <entry>
+    <title>zip</title>
+    <link href="https://claudskills.com/skills/zip/"/>
+    <id>https://claudskills.com/skills/zip/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>BytesAgain</name></author>
+    <summary>Compress, extract, list, and encrypt ZIP archives in batch. Use when archiving files, extracting packages, listing contents, encrypting backups, or batching.</summary>
+  </entry>
+  <entry>
+    <title>zhihu-search-api-skill</title>
+    <link href="https://claudskills.com/skills/zhihu-search-api-skill/"/>
+    <id>https://claudskills.com/skills/zhihu-search-api-skill/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>aiskillstore</name></author>
+    <summary>This skill helps users automatically extract structured article details and full content from Zhihu via the BrowserAct API. Agent should proactively apply this skill when users express needs like: searching for Zhihu articles on a specific topic, tracking industry trends on Zhihu, monitoring public relations or sentiment on Zhihu, collecting competitor updates, getting the latest reports on specific keywords, monitoring brand exposure in Zhihu media, researching market hot topics, summarizing da</summary>
+  </entry>
+  <entry>
+    <title>seedance-prompt-zh</title>
+    <link href="https://claudskills.com/skills/zh/"/>
+    <id>https://claudskills.com/skills/zh/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>mightyhuman101</name></author>
+    <summary>为即梦 Seedance 2.0 多模态AI视频生成模型撰写高质量提示词。当用户需要使用文本、图片、视频、音频等多模态输入创作视频提示词时触发。涵盖@引用语法、运镜复刻、特效模仿、视频延长、视频编辑、音乐卡点、电商广告、短剧创作、科普教育等场景。</summary>
+  </entry>
+  <entry>
+    <title>zeugnisart-erkennung</title>
+    <link href="https://claudskills.com/skills/zeugnisart-erkennung/"/>
+    <id>https://claudskills.com/skills/zeugnisart-erkennung/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Unterscheidet qualifiziertes Endzeugnis, einfaches Zeugnis, Zwischenzeugnis und Ausbildungszeugnis. Erklärt die Auswirkung der Zeugnisart auf Inhalt, Erwartungshaltung und Interpretationsrahmen für die Ampelanalyse.</summary>
+  </entry>
+  <entry>
+    <title>zettelkasten</title>
+    <link href="https://claudskills.com/skills/zettelkasten/"/>
+    <id>https://claudskills.com/skills/zettelkasten/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>majiayu000</name></author>
+    <summary>Write Obsidian Zettelkasten notes. Create atomic notes, search existing notes and connect via [[wikilink]], write frontmatter metadata, visualize with mermaid diagrams. Save to Obsidian Vault 00.Inbox. **Proactively use this skill** when user mentions "옵시디언", "Obsidian", "제텔카스텐", "Zettelkasten", "노트로 정리", "노트에 정리" without explicit /zettelkasten command.</summary>
+  </entry>
+  <entry>
+    <title>zetic-mlange</title>
+    <link href="https://claudskills.com/skills/zeticskill/"/>
+    <id>https://claudskills.com/skills/zeticskill/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>Camillalalala</name></author>
+    <summary>Help users integrate the ZETIC Melange (MLange) on-device AI SDK into Android (Kotlin/Java) and iOS (Swift) mobile apps. Use this skill whenever the user mentions Zetic, MLange, Melange, ZeticMLangeModel, ZeticMLangeLLMModel, ZeticMLangeHFModel, on-device NPU inference for mobile, or deploying ML models to Android/iOS with NPU acceleration. Also trigger when users ask about running LLMs on-device with GGUF quantization, mobile NPU model deployment, or converting PyTorch/ONNX models for mobile in</summary>
+  </entry>
+  <entry>
+    <title>zetic-mlange</title>
+    <link href="https://claudskills.com/skills/zetic-mlange/"/>
+    <id>https://claudskills.com/skills/zetic-mlange/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>mouchegmouradian</name></author>
+    <summary>Help users integrate the ZETIC Melange (MLange) on-device AI SDK into Android (Kotlin/Java) and iOS (Swift) mobile apps. Use this skill whenever the user mentions Zetic, MLange, Melange, ZeticMLangeModel, ZeticMLangeLLMModel, ZeticMLangeHFModel, on-device NPU inference for mobile, or deploying ML models to Android/iOS with NPU acceleration. Also trigger when users ask about running LLMs on-device with GGUF quantization, mobile NPU model deployment, or converting PyTorch/ONNX models for mobile in</summary>
+  </entry>
+  <entry>
+    <title>zentao-tour</title>
+    <link href="https://claudskills.com/skills/zentao-tour/"/>
+    <id>https://claudskills.com/skills/zentao-tour/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>easysoft</name></author>
+    <summary>以轻松聊天的方式带用户上手禅道（ZenTao）与 zentao-cli，让用户顺着自己的角色（产品经理/项目经理/测试/开发/高管）在真实禅道环境里边聊边动手，熟悉产品、需求、计划、任务、Bug、测试用例等模块的增删改查与状态流转。当用户首次接触禅道、想上手 zentao-cli、希望了解禅道能做什么，或明确提出"带我了解禅道/给我一个禅道 tour/体验禅道"时使用本技能。</summary>
+  </entry>
+  <entry>
+    <title>zentao-cli</title>
+    <link href="https://claudskills.com/skills/zentao-cli/"/>
+    <id>https://claudskills.com/skills/zentao-cli/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>aiskillstore</name></author>
+    <summary>通过 zentao 命令行工具查询和操作禅道（ZenTao）数据，覆盖项目集、产品、项目、执行、需求、Bug、任务、测试用例、测试单、产品计划、版本、发布、反馈、工单、应用、用户、附件等模块的增删改查及状态流转。当用户提到禅道、zentao、查询项目进展、获取 Bug 列表、创建任务、更新需求状态等项目管理操作时使用本技能。</summary>
+  </entry>
+  <entry>
+    <title>zeno-development</title>
+    <link href="https://claudskills.com/skills/zeno-development/"/>
+    <id>https://claudskills.com/skills/zeno-development/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>ribeirogab</name></author>
+    <summary>Clone repos using bare clones + git worktrees, develop changes, deliver via Pull Requests. Use this skill whenever the user asks you to clone, code, fix, edit, refactor, implement a feature, or open a PR on any repository — including PT-BR phrasings like "clonar repo", "refatorar", "abrir PR", "corrigir bug", "implementar feature". Covers branch naming, quality gate discovery, commit conventions, and PR delivery rules.</summary>
+  </entry>
+  <entry>
+    <title>zenn-publishing</title>
+    <link href="https://claudskills.com/skills/zenn-publishing/"/>
+    <id>https://claudskills.com/skills/zenn-publishing/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>zenn-dev</name></author>
+    <summary>Zennでの技術記事・書籍公開の完全ガイド。カバー画像仕様、価格設定、config.yaml設定、GitHubデプロイ、よくあるエラーと対処法まで、Zenn公開の全てをカバー。</summary>
+  </entry>
+  <entry>
+    <title>zen</title>
+    <link href="https://claudskills.com/skills/zen/"/>
+    <id>https://claudskills.com/skills/zen/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>simota</name></author>
+    <summary>Variable name improvement, function extraction, magic number constants, dead code removal, and code review. For refactoring and PR review — does not change behavior. Don't use for bug/security (Judge), new tests (Radar), architecture (Atlas), or feature implementation (Builder).</summary>
+  </entry>
+  <entry>
+    <title>zeigarnik-effect</title>
+    <link href="https://claudskills.com/skills/zeigarnik-effect-vjrivmon-setup-software-ia/"/>
+    <id>https://claudskills.com/skills/zeigarnik-effect-vjrivmon-setup-software-ia/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>ClaudSkills</name></author>
+    <summary>Las tareas incompletas se recuerdan mejor que las completadas. Use cuando</summary>
+  </entry>
+  <entry>
+    <title>zeigarnik-effect</title>
+    <link href="https://claudskills.com/skills/zeigarnik-effect-vjrivmon-handwriting-ocr/"/>
+    <id>https://claudskills.com/skills/zeigarnik-effect-vjrivmon-handwriting-ocr/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>ClaudSkills</name></author>
+    <summary>Las tareas incompletas se recuerdan mejor que las completadas. Use cuando</summary>
+  </entry>
+  <entry>
+    <title>zeigarnik-effect</title>
+    <link href="https://claudskills.com/skills/zeigarnik-effect/"/>
+    <id>https://claudskills.com/skills/zeigarnik-effect/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>majiayu000</name></author>
+    <summary>Las tareas incompletas se recuerdan mejor que las completadas. Use cuando</summary>
+  </entry>
+  <entry>
+    <title>zd</title>
+    <link href="https://claudskills.com/skills/zd/"/>
+    <id>https://claudskills.com/skills/zd/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>ClaudSkills</name></author>
+    <summary>Manage Zendesk support tickets via the `zd` CLI. Use when the user asks about Zendesk tickets, support tickets, customer issues, helpdesk operations, or ticket triage. Covers listing, searching, creating, updating, and deleting tickets, plus authentication setup and Zendesk search queries. Triggers on tasks involving "zendesk", "zd", "support ticket", "ticket queue", "helpdesk", or "customer support".</summary>
+  </entry>
+  <entry>
+    <title>zbmath-interface</title>
+    <link href="https://claudskills.com/skills/zbmath-interface/"/>
+    <id>https://claudskills.com/skills/zbmath-interface/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>ClaudSkills</name></author>
+    <summary>Interface with zbMATH Open database</summary>
+  </entry>
+  <entry>
+    <title>OWASP ZAP</title>
+    <link href="https://claudskills.com/skills/zap/"/>
+    <id>https://claudskills.com/skills/zap/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>Security Skills Team</name></author>
+    <summary>Web application security scanner with proxy and active/passive scanning</summary>
+  </entry>
+  <entry>
+    <title>ai-audit-report</title>
+    <link href="https://claudskills.com/skills/zaka-s-ai/"/>
+    <id>https://claudskills.com/skills/zaka-s-ai/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>zaka33333-hash</name></author>
+    <summary>Generates a complete, professional AI Readiness Audit Report for AI consultants working with small and medium businesses. Use this skill whenever a user wants to write up audit findings, generate a client report after an AI audit, score a client's AI readiness, or turn audit notes and answers into a structured deliverable. Also trigger when the user says things like "I finished my audit", "write up my findings", "generate the report", "score my client", or "create an AI readiness report". The sk</summary>
+  </entry>
+  <entry>
+    <title>z-cheatsheet-add</title>
+    <link href="https://claudskills.com/skills/z-cheatsheet-add/"/>
+    <id>https://claudskills.com/skills/z-cheatsheet-add/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>AutoFor</name></author>
+    <summary>z-cheatsheet にエントリを追加する。</summary>
+  </entry>
+  <entry>
+    <title>z-cheatsheet</title>
+    <link href="https://claudskills.com/skills/z-cheatsheet/"/>
+    <id>https://claudskills.com/skills/z-cheatsheet/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>AutoFor</name></author>
+    <summary>dotfiles に定義されたショートカット・コマンドを日本語キーワードで検索する。</summary>
+  </entry>
+  <entry>
+    <title>yulu</title>
+    <link href="https://claudskills.com/skills/yulu/"/>
+    <id>https://claudskills.com/skills/yulu/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>Nowhitestar</name></author>
+    <summary>Control Yulu (语录), the local-first macOS meeting recorder. Use this skill when the user asks to start or stop recording a meeting, check recording status, look up past transcripts, or generate / re-generate a meeting summary. Yulu records natively via ScreenCaptureKit + AVFoundation, transcribes locally with whisper.cpp, and routes summary requests through ~/.config/yulu/agent-queue.json — there is no cloud, no virtual audio device, and no account.</summary>
+  </entry>
+  <entry>
+    <title>yugabytedb-sizing</title>
+    <link href="https://claudskills.com/skills/yugabytedb-sizing/"/>
+    <id>https://claudskills.com/skills/yugabytedb-sizing/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>ClaudSkills</name></author>
+    <summary>Calculate and recommend optimal YugabyteDB cluster sizing based on workload inputs. Use this skill whenever the user asks about YugabyteDB cluster sizing, capacity planning, node count, vCPU requirements, storage sizing, memory recommendations, or wants to know how many nodes they need for a given workload. Trigger when user mentions "size my cluster", "how many nodes", "YugabyteDB capacity", "YugabyteDB hardware requirements", QPS with YugabyteDB, or asks about CPU/storage/memory for a Yugabyte</summary>
+  </entry>
+  <entry>
+    <title>yuanbao</title>
+    <link href="https://claudskills.com/skills/yuanbao/"/>
+    <id>https://claudskills.com/skills/yuanbao/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>brotherzhafif</name></author>
+    <summary>Yuanbao (元宝) groups: @mention users, query info/members.</summary>
+  </entry>
+  <entry>
+    <title>yt-research</title>
+    <link href="https://claudskills.com/skills/yt-research/"/>
+    <id>https://claudskills.com/skills/yt-research/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>Claude Code Plugins &lt;plugins@claudecodeplugins.io></name></author>
+    <summary>Research competitor YouTube channels, niches, and trending topics for</summary>
+  </entry>
+  <entry>
+    <title>yt-packaging</title>
+    <link href="https://claudskills.com/skills/yt-packaging/"/>
+    <id>https://claudskills.com/skills/yt-packaging/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>Claude Code Plugins &lt;plugins@claudecodeplugins.io></name></author>
+    <summary>Create optimized YouTube titles and thumbnail concepts for maximum CTR.</summary>
+  </entry>
+  <entry>
+    <title>yt-outline</title>
+    <link href="https://claudskills.com/skills/yt-outline/"/>
+    <id>https://claudskills.com/skills/yt-outline/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>Claude Code Plugins &lt;plugins@claudecodeplugins.io></name></author>
+    <summary>Build detailed step-by-step YouTube video outlines with demo prep, screen-share</summary>
+  </entry>
+  <entry>
+    <title>yt-ideation</title>
+    <link href="https://claudskills.com/skills/yt-ideation/"/>
+    <id>https://claudskills.com/skills/yt-ideation/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>Claude Code Plugins &lt;plugins@claudecodeplugins.io></name></author>
+    <summary>Generate and validate YouTube video ideas aligned with content pillars,</summary>
+  </entry>
+  <entry>
+    <title>yt-brief</title>
+    <link href="https://claudskills.com/skills/yt-brief/"/>
+    <id>https://claudskills.com/skills/yt-brief/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>Claude Code Plugins &lt;plugins@claudecodeplugins.io></name></author>
+    <summary>Refine a YouTube video idea into a structured production brief with</summary>
+  </entry>
+  <entry>
+    <title>yt</title>
+    <link href="https://claudskills.com/skills/yt/"/>
+    <id>https://claudskills.com/skills/yt/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>RoboNET</name></author>
+    <summary>Use when interacting with Yandex Tracker (Яндекс Трекер) — searching/reading issues, comments, worklogs, attachments, checklists, links, boards, sprints, projects. Triggers on words like "Яндекс Трекер", "Tracker", "ишью", "задача в трекере", issue keys like "TECH-1234", or URLs like tracker.yandex.ru/MAN-123. Use yt CLI for both reading and mutating operations; pass --read-only or YT_READ_ONLY=1 for safe browsing.</summary>
+  </entry>
+  <entry>
+    <title>youtube-zh</title>
+    <link href="https://claudskills.com/skills/youtube-zh/"/>
+    <id>https://claudskills.com/skills/youtube-zh/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>ZubeidHendricks</name></author>
+    <summary>搜索 YouTube 视频、获取频道信息、提取视频详情和字幕，通过 YouTube Data API v3 的 MCP 服务器或 yt-dlp 备用方案实现。</summary>
+  </entry>
+  <entry>
+    <title>youtube-video-api-skill</title>
+    <link href="https://claudskills.com/skills/youtube-video-api-skill/"/>
+    <id>https://claudskills.com/skills/youtube-video-api-skill/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>aiskillstore</name></author>
+    <summary>This skill helps users automatically extract channel-level and video detail data from a specific YouTube channel via BrowserAct API. Agent should proactively apply this skill when users express needs like extracting channel video data, getting latest or popular videos from a YouTube channel, tracking competitor channel content, extracting video metrics such as views likes comments, retrieving subscriber count and channel info, monitoring posting cadence of a YouTube channel, gathering video data</summary>
+  </entry>
+  <entry>
+    <title>youtube-transcript-extractor-api-skill</title>
+    <link href="https://claudskills.com/skills/youtube-transcript-extractor-api-skill/"/>
+    <id>https://claudskills.com/skills/youtube-transcript-extractor-api-skill/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>aiskillstore</name></author>
+    <summary>This skill helps users automatically extract YouTube video transcripts and metadata via the BrowserAct API. The Agent should proactively apply this skill when users express needs like extracting full transcript from a specific YouTube video, getting subtitles and metadata for video content analysis, gathering video titles and likes counts, summarizing YouTube videos without watching them, collecting channel details from a video URL, tracking transcript automation for specific videos, scraping Yo</summary>
+  </entry>
+  <entry>
+    <title>youtube-transcript-analysis-api-skill</title>
+    <link href="https://claudskills.com/skills/youtube-transcript-analysis-api-skill/"/>
+    <id>https://claudskills.com/skills/youtube-transcript-analysis-api-skill/</id>
+    <updated>2026-05-23T00:00:00Z</updated>
+    <author><name>aiskillstore</name></author>
+    <summary>This skill helps users extract YouTube video transcripts and perform deep competitive analysis on the content. Agent should proactively apply this skill when users express needs like analyze YouTube video content strategy, perform competitive video content analysis, extract and analyze YouTube subtitles for marketing insights, understand competitor value propositions from their videos, identify target audience from YouTube video content, analyze pain points and needs mentioned in YouTube videos,</summary>
+  </entry>
+</feed>
