@@ -4,53 +4,229 @@
   <link href="https://claudskills.com/"/>
   <link rel="self" href="https://github.com/claudskills/catalog-public/raw/main/feed.atom"/>
   <id>https://github.com/claudskills/catalog-public/feed.atom</id>
-  <updated>2026-05-28T06:42:26Z</updated>
+  <updated>2026-05-29T06:44:01Z</updated>
   <author><name>ClaudSkills</name></author>
   <entry>
     <title>zx</title>
     <link href="https://claudskills.com/skills/zx/"/>
     <id>https://claudskills.com/skills/zx/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>LeoYeAI</name></author>
     <summary>Comprehensive guide for writing shell scripts with Google zx — a tool for writing better scripts using JavaScript/TypeScript. Use when writing, debugging, or refactoring zx scripts (.mjs, .js, .ts files using zx), executing shell commands from JavaScript, working with ProcessPromise/ProcessOutput APIs, piping streams, configuring zx options, or using zx CLI.  Do NOT use for general Node.js questions unrelated to shell scripting.</summary>
+  </entry>
+  <entry>
+    <title>zutilo-guide</title>
+    <link href="https://claudskills.com/skills/zutilo-guide/"/>
+    <id>https://claudskills.com/skills/zutilo-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Zotero utility plugin for keyboard shortcuts and batch editing</summary>
   </entry>
   <entry>
     <title>zread-expert</title>
     <link href="https://claudskills.com/skills/zread-expert/"/>
     <id>https://claudskills.com/skills/zread-expert/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>owner</name></author>
     <summary>Deep repository analysis skill for Z.AI Zread MCP.</summary>
+  </entry>
+  <entry>
+    <title>zotmoov-guide</title>
+    <link href="https://claudskills.com/skills/zotmoov-guide/"/>
+    <id>https://claudskills.com/skills/zotmoov-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Zotero plugin for automatic attachment file organization</summary>
+  </entry>
+  <entry>
+    <title>zotfile-attachment-guide</title>
+    <link href="https://claudskills.com/skills/zotfile-attachment-guide/"/>
+    <id>https://claudskills.com/skills/zotfile-attachment-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Guide to ZotFile for Zotero attachment management, renaming, and syncing</summary>
+  </entry>
+  <entry>
+    <title>zotero-style-guide</title>
+    <link href="https://claudskills.com/skills/zotero-style-guide/"/>
+    <id>https://claudskills.com/skills/zotero-style-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Feature-rich Zotero plugin for UI customization and styling</summary>
+  </entry>
+  <entry>
+    <title>zotero-scholar-guide</title>
+    <link href="https://claudskills.com/skills/zotero-scholar-guide/"/>
+    <id>https://claudskills.com/skills/zotero-scholar-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Save papers with metadata to Zotero via its API programmatically</summary>
+  </entry>
+  <entry>
+    <title>zotero-reference-guide</title>
+    <link href="https://claudskills.com/skills/zotero-reference-guide/"/>
+    <id>https://claudskills.com/skills/zotero-reference-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>wentor-community</name></author>
+    <summary>PDF references add-on for enriching Zotero library metadata</summary>
+  </entry>
+  <entry>
+    <title>zotero-pdf2zh-guide</title>
+    <link href="https://claudskills.com/skills/zotero-pdf2zh-guide/"/>
+    <id>https://claudskills.com/skills/zotero-pdf2zh-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>wentor-community</name></author>
+    <summary>PDF Chinese translation plugin for Zotero reference manager</summary>
+  </entry>
+  <entry>
+    <title>zotero-pdf-translate-guide</title>
+    <link href="https://claudskills.com/skills/zotero-pdf-translate-guide/"/>
+    <id>https://claudskills.com/skills/zotero-pdf-translate-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Guide to Zotero PDF Translate for multilingual PDF and annotation translation</summary>
+  </entry>
+  <entry>
+    <title>zotero-obsidian-bridge</title>
+    <link href="https://claudskills.com/skills/zotero-obsidian-bridge/"/>
+    <id>https://claudskills.com/skills/zotero-obsidian-bridge/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Use this skill when papers are collected in Zotero but the user wants detailed reading notes, project-linked literature synthesis, collection-wide paper-note coverage checks, and a connected knowledge map inside the bound Obsidian project knowledge base.</summary>
+  </entry>
+  <entry>
+    <title>zotero-night-theme-guide</title>
+    <link href="https://claudskills.com/skills/zotero-night-theme-guide/"/>
+    <id>https://claudskills.com/skills/zotero-night-theme-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Dark mode theme plugin for Zotero reference manager</summary>
+  </entry>
+  <entry>
+    <title>zotero-mdnotes-guide</title>
+    <link href="https://claudskills.com/skills/zotero-mdnotes-guide/"/>
+    <id>https://claudskills.com/skills/zotero-mdnotes-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>wentor-community</name></author>
+    <summary>Export Zotero items and annotations to Markdown note files</summary>
+  </entry>
+  <entry>
+    <title>zotero-mcp-guide</title>
+    <link href="https://claudskills.com/skills/zotero-mcp-guide/"/>
+    <id>https://claudskills.com/skills/zotero-mcp-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Guide to Zotero MCP for connecting Zotero library with AI assistants</summary>
   </entry>
   <entry>
     <title>zotero-mcp-code</title>
     <link href="https://claudskills.com/skills/zotero-mcp-code-neversight/"/>
     <id>https://claudskills.com/skills/zotero-mcp-code-neversight/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>diegosouzapw</name></author>
     <summary>Search Zotero library using code execution for efficient multi-strategy searches without crash risks. Use this skill when the user needs comprehensive Zotero searches with automatic deduplication and ranking.</summary>
+  </entry>
+  <entry>
+    <title>zotero-markdb-connect-guide</title>
+    <link href="https://claudskills.com/skills/zotero-markdb-connect-guide/"/>
+    <id>https://claudskills.com/skills/zotero-markdb-connect-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Sync Zotero references to Obsidian and Logseq markdown</summary>
   </entry>
   <entry>
     <title>zotero-fetcher</title>
     <link href="https://claudskills.com/skills/zotero-inbox-builder/"/>
     <id>https://claudskills.com/skills/zotero-inbox-builder/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>ZERO-A-ONE</name></author>
     <summary>从 Zotero 兴趣画像出发抓取 arXiv 论文，排序后写入标准化 inbox Markdown。适用于收集论文、更新研究 feed、生成每日候选话题。</summary>
+  </entry>
+  <entry>
+    <title>zotero-gpt-guide</title>
+    <link href="https://claudskills.com/skills/zotero-gpt-guide/"/>
+    <id>https://claudskills.com/skills/zotero-gpt-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Guide to Zotero GPT for AI-powered research assistance within Zotero</summary>
   </entry>
   <entry>
     <title>zotero-citation</title>
     <link href="https://claudskills.com/skills/zotero-citation/"/>
     <id>https://claudskills.com/skills/zotero-citation/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>ClaudSkills</name></author>
     <summary>Zotero 文献引用工作流助手。通过 Zotero 本地 API 读取文献库，为用户指定的文字段落或论文全文自动匹配参考文献，生成规范格式的 Reference。当用户需要"引用文献"、"分配参考文献"、"从 Zotero 选文献"、"生成 Reference 列表"、"匹配引用位置"、"添加参考文献"、"给这段话配引用"、"帮我找合适的参考文献"时触发。也适用于查询 Zotero 文献库、获取文献元数据、或管理论文 citation 的场景。</summary>
+  </entry>
+  <entry>
+    <title>zotero-better-notes-guide</title>
+    <link href="https://claudskills.com/skills/zotero-better-notes-guide/"/>
+    <id>https://claudskills.com/skills/zotero-better-notes-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Guide to Zotero Better Notes for comprehensive note-taking in research</summary>
+  </entry>
+  <entry>
+    <title>zotero-better-bibtex-guide</title>
+    <link href="https://claudskills.com/skills/zotero-better-bibtex-guide/"/>
+    <id>https://claudskills.com/skills/zotero-better-bibtex-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Guide to Better BibTeX for Zotero for LaTeX and BibTeX workflows</summary>
+  </entry>
+  <entry>
+    <title>zotero-arxiv-daily-guide</title>
+    <link href="https://claudskills.com/skills/zotero-arxiv-daily-guide/"/>
+    <id>https://claudskills.com/skills/zotero-arxiv-daily-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Guide to Zotero arXiv Daily for personalized daily paper recommendations</summary>
+  </entry>
+  <entry>
+    <title>zotero-api</title>
+    <link href="https://claudskills.com/skills/zotero-api/"/>
+    <id>https://claudskills.com/skills/zotero-api/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Reference management library and collections API</summary>
+  </entry>
+  <entry>
+    <title>zotero-ai-butler-guide</title>
+    <link href="https://claudskills.com/skills/zotero-ai-butler-guide/"/>
+    <id>https://claudskills.com/skills/zotero-ai-butler-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>AI-powered paper summarization plugin for Zotero</summary>
+  </entry>
+  <entry>
+    <title>zotero-addon-market-guide</title>
+    <link href="https://claudskills.com/skills/zotero-addon-market-guide/"/>
+    <id>https://claudskills.com/skills/zotero-addon-market-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Plugin marketplace and discovery platform for Zotero</summary>
+  </entry>
+  <entry>
+    <title>zotero-actions-tags-guide</title>
+    <link href="https://claudskills.com/skills/zotero-actions-tags-guide/"/>
+    <id>https://claudskills.com/skills/zotero-actions-tags-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Zotero workflow automation with custom actions and tags</summary>
+  </entry>
+  <entry>
+    <title>zoplicate-dedup-guide</title>
+    <link href="https://claudskills.com/skills/zoplicate-dedup-guide/"/>
+    <id>https://claudskills.com/skills/zoplicate-dedup-guide/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>brycewang-stanford</name></author>
+    <summary>Detect and manage duplicate items in Zotero libraries</summary>
   </entry>
   <entry>
     <title>zoe</title>
     <link href="https://claudskills.com/skills/zoe/"/>
     <id>https://claudskills.com/skills/zoe/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>atm301</name></author>
     <summary>執行特助 Zoe (Chief of Staff) — 彙整、排程、會議紀錄、跨角色協調。Use when user mentions 週報/月報/彙整/summary/排程/schedule/會議紀錄/meeting notes/待辦/todo/追蹤, or asks to 整理跨角色產出 or 寫 email. 不出主意，把事情串起來，最後收尾的人。</summary>
   </entry>
@@ -58,7 +234,7 @@
     <title>zod-validation-patterns</title>
     <link href="https://claudskills.com/skills/zod-validation-patterns/"/>
     <id>https://claudskills.com/skills/zod-validation-patterns/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>aiskillstore</name></author>
     <summary>This skill provides comprehensive patterns for using Zod validation library in TypeScript applications. It ensures input validation is done correctly, securely, and consistently across the codebase.</summary>
   </entry>
@@ -66,7 +242,7 @@
     <title>Zod v4 Migration and New APIs</title>
     <link href="https://claudskills.com/skills/zod-v4-migration/"/>
     <id>https://claudskills.com/skills/zod-v4-migration/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>radesjardins</name></author>
     <summary>This skill should be used when the user asks about "Zod 4", "Zod v4", "upgrading to Zod 4", "Zod 4 breaking changes", "Zod 4 migration", "z.merge deprecated", "Zod 4 error parameter", "z.config", "Zod registries", "z.meta", "ZodMini", "z.file", "z.templateLiteral", "z.toJSONSchema", "Zod 4 vs Zod 3", "Zod 4 optional default behavior", or "Zod 4 performance". Covers Zod v4 architecture, all breaking changes, new APIs, and migration strategies.</summary>
   </entry>
@@ -74,7 +250,7 @@
     <title>Zod Security</title>
     <link href="https://claudskills.com/skills/zod-security/"/>
     <id>https://claudskills.com/skills/zod-security/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>radesjardins</name></author>
     <summary>This skill should be used when the user asks about "Zod security", "Zod over-posting attack", "mass assignment Zod", "z.strictObject security", "z.custom security", "Zod coercion vulnerability", "Zod default PATCH bug", "Zod data loss", "Zod reportInput PII", "exposing ZodError to client", "Zod security review", "reviewing Zod validation code", or when performing a code review on TypeScript files that use Zod. Provides a comprehensive security model and review checklist for Zod usage.</summary>
   </entry>
@@ -82,7 +258,7 @@
     <title>Zod Schema Design</title>
     <link href="https://claudskills.com/skills/zod-schema-design/"/>
     <id>https://claudskills.com/skills/zod-schema-design/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>radesjardins</name></author>
     <summary>This skill should be used when the user asks about "composing Zod schemas", "extending a schema", "Zod pick omit partial", "discriminatedUnion vs union", "Zod transforms", "Zod refinements", "z.refine vs z.check", "Zod pipe", "input output types", "z.infer input output", "Zod branded types", "recursive schemas", "Zod lazy", or is designing data models with Zod schemas. Provides comprehensive patterns for schema composition, transformation, and refinement.</summary>
   </entry>
@@ -90,7 +266,7 @@
     <title>Zod Framework Integrations</title>
     <link href="https://claudskills.com/skills/zod-integrations/"/>
     <id>https://claudskills.com/skills/zod-integrations/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>radesjardins</name></author>
     <summary>This skill should be used when the user asks about "Zod with Fastify", "Zod type provider", "fastify-type-provider-zod", "Zod with Next.js", "Zod server actions", "Zod React Hook Form", "zodResolver", "Zod tRPC", "Zod monorepo", "shared Zod schemas", "Zod shared package", "Zod dual instance error", "ID already exists registry", "Zod frontend backend", "Zod AI SDK", or when integrating Zod with any web framework. Provides patterns for all major framework integrations and monorepo architecture.</summary>
   </entry>
@@ -98,7 +274,7 @@
     <title>Zod Error Handling</title>
     <link href="https://claudskills.com/skills/zod-error-handling/"/>
     <id>https://claudskills.com/skills/zod-error-handling/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>radesjardins</name></author>
     <summary>This skill should be used when the user asks about "Zod error handling", "parse vs safeParse", "ZodError", "z.treeifyError", "z.flattenError", "z.prettifyError", "formatting Zod errors", "Zod error messages", "custom Zod errors", "z.config error map", "Zod error precedence", "Zod validation errors for API response", or "how to display Zod errors to users". Provides comprehensive guidance on Zod's error system, formatting utilities, and customization.</summary>
   </entry>
@@ -106,7 +282,7 @@
     <title>Zod Best Practices</title>
     <link href="https://claudskills.com/skills/zod-best-practices/"/>
     <id>https://claudskills.com/skills/zod-best-practices/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>radesjardins</name></author>
     <summary>This skill should be used when the user asks about "how to use Zod", "where should I put Zod validation", "Zod best practices", "should I use Zod here", "Zod vs TypeScript types", "parse don't validate", "overvalidation", "Zod single source of truth", or when reviewing or writing TypeScript code that imports from "zod". Provides the core mental model and foundational rules for effective Zod usage.</summary>
   </entry>
@@ -114,7 +290,7 @@
     <title>zod</title>
     <link href="https://claudskills.com/skills/zod/"/>
     <id>https://claudskills.com/skills/zod/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>VKirill</name></author>
     <summary>Zod schema validation and type inference.</summary>
   </entry>
@@ -122,7 +298,7 @@
     <title>zlibrary-to-notebooklm</title>
     <link href="https://claudskills.com/skills/zlibrary-to-notebooklm/"/>
     <id>https://claudskills.com/skills/zlibrary-to-notebooklm/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>aiskillstore</name></author>
     <summary>自动从 Z-Library 下载书籍并上传到 Google NotebookLM。支持 PDF/EPUB 格式，自动转换，一键创建知识库。</summary>
   </entry>
@@ -130,7 +306,7 @@
     <title>zip</title>
     <link href="https://claudskills.com/skills/zip/"/>
     <id>https://claudskills.com/skills/zip/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>BytesAgain</name></author>
     <summary>Compress, extract, list, and encrypt ZIP archives in batch. Use when archiving files, extracting packages, listing contents, encrypting backups, or batching.</summary>
   </entry>
@@ -138,7 +314,7 @@
     <title>zinc-unittest</title>
     <link href="https://claudskills.com/skills/zinc-unittest/"/>
     <id>https://claudskills.com/skills/zinc-unittest/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>ClaudSkills</name></author>
     <summary>War3Lib 的 Zinc 单元测试流程规范（.j + .cfg + _Test.j + 可选 w3a/w3u/w3i）：使用 TaskCreateUT.lua 生成测试壳、维护 cfg 注入与 chain 依赖、使用 UnitTestFramwork.assert 断言与 Trace 日志输出。用于创建/重构 Jass 模块单测时。</summary>
   </entry>
@@ -146,7 +322,7 @@
     <title>zhihu-search-api-skill</title>
     <link href="https://claudskills.com/skills/zhihu-search-api-skill/"/>
     <id>https://claudskills.com/skills/zhihu-search-api-skill/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>aiskillstore</name></author>
     <summary>This skill helps users automatically extract structured article details and full content from Zhihu via the BrowserAct API. Agent should proactively apply this skill when users express needs like: searching for Zhihu articles on a specific topic, tracking industry trends on Zhihu, monitoring public relations or sentiment on Zhihu, collecting competitor updates, getting the latest reports on specific keywords, monitoring brand exposure in Zhihu media, researching market hot topics, summarizing da</summary>
   </entry>
@@ -154,7 +330,7 @@
     <title>zhang-mingkai-criminal-law-academic-perspective</title>
     <link href="https://claudskills.com/skills/zhang-mingkai-criminal-law-academic/"/>
     <id>https://claudskills.com/skills/zhang-mingkai-criminal-law-academic/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>voidborne-d</name></author>
     <summary>张明楷 (清华大学法学院文科资深教授) 视角. 国内刑法学术代表 + 教材标准 (《刑法学》第七版) + 结果无价值论代表. 调用此 skill 时, 用张明楷框架做刑法学术解释 / 构成要件实质解释 / 罪名认定决策.</summary>
   </entry>
@@ -162,7 +338,7 @@
     <title>zhang-jianzhong-tongren-perspective</title>
     <link href="https://claudskills.com/skills/zhang-jianzhong-tongren/"/>
     <id>https://claudskills.com/skills/zhang-jianzhong-tongren/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>voidborne-d</name></author>
     <summary>张建中 (首都医科大学附属北京同仁医院足踝外科矫形中心) 视角. 国内足踝外科教父级代表. 拇外翻 + 平足 + 踝关节置换 + 中文圈本土化派. 调用此 skill 时, 用张建中框架做拇外翻 / 国内患者 / 中文圈实操决策.</summary>
   </entry>
@@ -170,7 +346,7 @@
     <title>morning-briefing</title>
     <link href="https://claudskills.com/skills/zh-tw/"/>
     <id>https://claudskills.com/skills/zh-tw/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>Kaminoikari</name></author>
     <summary>一套模組化的晨間簡報 skill，每天早上透過 Telegram 發送每日摘要。 包含 Gmail 收件匣摘要與 Google Calendar 行程提醒兩個選用模組。 當用戶想設定每日晨間簡報、安裝本 skill、或啟用/停用個別模組時使用。 觸發關鍵字：「設定每日簡報」、「morning briefing」、「安裝晨間通知」、「啟用每日行程」、「啟用信件摘要」。 首次安裝時，引導用戶完成設定與模組選擇。</summary>
   </entry>
@@ -178,7 +354,7 @@
     <title>product-playbook</title>
     <link href="https://claudskills.com/skills/zh-cn/"/>
     <id>https://claudskills.com/skills/zh-cn/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>Kaminoikari</name></author>
     <summary>MUST use when user wants to plan, design, or strategize a product or feature — including "plan a feature", "add a new feature", "product planning", "I want to plan". This is the correct skill for product/feature PLANNING (not brainstorming for implementation). Integrates 22 PM frameworks (JTBD, PR-FAQ, North Star, etc.) for 0-to-1 through scale-up. ALSO trigger when: user wants to scope/define a feature, create Persona/JTBD/Journey Map, mentions "PMF"/"MVP"/"North Star"/"product strategy", reque</summary>
   </entry>
@@ -186,7 +362,7 @@
     <title>seedance-prompt-zh</title>
     <link href="https://claudskills.com/skills/zh/"/>
     <id>https://claudskills.com/skills/zh/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>mightyhuman101</name></author>
     <summary>为即梦 Seedance 2.0 多模态AI视频生成模型撰写高质量提示词。当用户需要使用文本、图片、视频、音频等多模态输入创作视频提示词时触发。涵盖@引用语法、运镜复刻、特效模仿、视频延长、视频编辑、音乐卡点、电商广告、短剧创作、科普教育等场景。</summary>
   </entry>
@@ -194,7 +370,7 @@
     <title>zettelkasten</title>
     <link href="https://claudskills.com/skills/zettelkasten/"/>
     <id>https://claudskills.com/skills/zettelkasten/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>majiayu000</name></author>
     <summary>Write Obsidian Zettelkasten notes. Create atomic notes, search existing notes and connect via [[wikilink]], write frontmatter metadata, visualize with mermaid diagrams. Save to Obsidian Vault 00.Inbox. **Proactively use this skill** when user mentions "옵시디언", "Obsidian", "제텔카스텐", "Zettelkasten", "노트로 정리", "노트에 정리" without explicit /zettelkasten command.</summary>
   </entry>
@@ -202,7 +378,7 @@
     <title>zetic-mlange</title>
     <link href="https://claudskills.com/skills/zeticskill/"/>
     <id>https://claudskills.com/skills/zeticskill/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>Camillalalala</name></author>
     <summary>Help users integrate the ZETIC Melange (MLange) on-device AI SDK into Android (Kotlin/Java) and iOS (Swift) mobile apps. Use this skill whenever the user mentions Zetic, MLange, Melange, ZeticMLangeModel, ZeticMLangeLLMModel, ZeticMLangeHFModel, on-device NPU inference for mobile, or deploying ML models to Android/iOS with NPU acceleration. Also trigger when users ask about running LLMs on-device with GGUF quantization, mobile NPU model deployment, or converting PyTorch/ONNX models for mobile in</summary>
   </entry>
@@ -210,7 +386,7 @@
     <title>zetic-mlange</title>
     <link href="https://claudskills.com/skills/zetic-mlange/"/>
     <id>https://claudskills.com/skills/zetic-mlange/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>mouchegmouradian</name></author>
     <summary>Help users integrate the ZETIC Melange (MLange) on-device AI SDK into Android (Kotlin/Java) and iOS (Swift) mobile apps. Use this skill whenever the user mentions Zetic, MLange, Melange, ZeticMLangeModel, ZeticMLangeLLMModel, ZeticMLangeHFModel, on-device NPU inference for mobile, or deploying ML models to Android/iOS with NPU acceleration. Also trigger when users ask about running LLMs on-device with GGUF quantization, mobile NPU model deployment, or converting PyTorch/ONNX models for mobile in</summary>
   </entry>
@@ -218,192 +394,16 @@
     <title>zerotoken-openclaw</title>
     <link href="https://claudskills.com/skills/zerotoken-openclaw/"/>
     <id>https://claudskills.com/skills/zerotoken-openclaw/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
+    <updated>2026-05-29T00:00:00Z</updated>
     <author><name>AMOS144</name></author>
     <summary>Use when using ZeroToken MCP via OpenClaw for browser automation, trajectory recording and low-token replay, especially for recurring or scheduled browser tasks.</summary>
   </entry>
   <entry>
-    <title>zentao-tour</title>
-    <link href="https://claudskills.com/skills/zentao-tour/"/>
-    <id>https://claudskills.com/skills/zentao-tour/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>easysoft</name></author>
-    <summary>以轻松聊天的方式带用户上手禅道（ZenTao）与 zentao-cli，让用户顺着自己的角色（产品经理/项目经理/测试/开发/高管）在真实禅道环境里边聊边动手，熟悉产品、需求、计划、任务、Bug、测试用例等模块的增删改查与状态流转。当用户首次接触禅道、想上手 zentao-cli、希望了解禅道能做什么，或明确提出"带我了解禅道/给我一个禅道 tour/体验禅道"时使用本技能。</summary>
-  </entry>
-  <entry>
-    <title>zentao-cli</title>
-    <link href="https://claudskills.com/skills/zentao-cli/"/>
-    <id>https://claudskills.com/skills/zentao-cli/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>aiskillstore</name></author>
-    <summary>通过 zentao 命令行工具查询和操作禅道（ZenTao）数据，覆盖项目集、产品、项目、执行、需求、Bug、任务、测试用例、测试单、产品计划、版本、发布、反馈、工单、应用、用户、附件等模块的增删改查及状态流转。当用户提到禅道、zentao、查询项目进展、获取 Bug 列表、创建任务、更新需求状态等项目管理操作时使用本技能。</summary>
-  </entry>
-  <entry>
-    <title>zentao-api</title>
-    <link href="https://claudskills.com/skills/zentao-api/"/>
-    <id>https://claudskills.com/skills/zentao-api/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>ClaudSkills</name></author>
-    <summary>调用禅道（ZenTao）RESTful API v2.0 完成用户请求，覆盖项目集、产品、项目、执行、需求（Story/Epic/Requirement）、Bug、任务、测试用例、测试单、产品计划、版本、发布、反馈、工单、应用、用户、文件等 20 个模块的增删改查及状态流转操作。当用户提到禅道、zentao、查询项目进展、获取 Bug 列表、更新需求状态、创建任务等项目管理相关操作时使用本技能。</summary>
-  </entry>
-  <entry>
-    <title>zenrpc</title>
-    <link href="https://claudskills.com/skills/zenrpc/"/>
-    <id>https://claudskills.com/skills/zenrpc/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>vmkteam</name></author>
-    <summary>Zenrpc — справочник по JSON-RPC 2.0 серверу для Go. Используй при создании и редактировании RPC-сервисов.</summary>
-  </entry>
-  <entry>
-    <title>zeno-development</title>
-    <link href="https://claudskills.com/skills/zeno-development/"/>
-    <id>https://claudskills.com/skills/zeno-development/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>ribeirogab</name></author>
-    <summary>Clone repos using bare clones + git worktrees, develop changes, deliver via Pull Requests. Use this skill whenever the user asks you to clone, code, fix, edit, refactor, implement a feature, or open a PR on any repository — including PT-BR phrasings like "clonar repo", "refatorar", "abrir PR", "corrigir bug", "implementar feature". Covers branch naming, quality gate discovery, commit conventions, and PR delivery rules.</summary>
-  </entry>
-  <entry>
-    <title>zenn-style</title>
-    <link href="https://claudskills.com/skills/zenn-style/"/>
-    <id>https://claudskills.com/skills/zenn-style/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>peintangos</name></author>
-    <summary>監査レポートを Zenn 技術記事向けの文体 (だ/である調 + 比較表 + 階層化された見出し) に整えるスキル。`src/reporter.ts` の骨組みを LLM が整形してレポート (`out/*.md`) を仕上げるときに読み込む。</summary>
-  </entry>
-  <entry>
-    <title>zenn-publishing</title>
-    <link href="https://claudskills.com/skills/zenn-publishing/"/>
-    <id>https://claudskills.com/skills/zenn-publishing/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>zenn-dev</name></author>
-    <summary>Zennでの技術記事・書籍公開の完全ガイド。カバー画像仕様、価格設定、config.yaml設定、GitHubデプロイ、よくあるエラーと対処法まで、Zenn公開の全てをカバー。</summary>
-  </entry>
-  <entry>
-    <title>zenn-markdown</title>
-    <link href="https://claudskills.com/skills/zenn-markdown/"/>
-    <id>https://claudskills.com/skills/zenn-markdown/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>shuntaka9576</name></author>
-    <summary>Zenn の Markdown 本文（:::message / :::message alert、:::details、リンクカード、```lang:filename、diff コードブロック、@[tweet] / @[youtube] / @[speakerdeck] などの埋め込み、KaTeX 数式、画像サイズ指定 =250x、脚注、mermaid）に沿って Markdown を整える。特に SpeakerDeck などサービスごとに必要な埋め込み ID を URL から抽出して `@[speakerdeck](id)` 形式に変換する処理は scripts/zenn-embed.sh を呼び出してこのスキルが面倒を見る。Zenn / zenn.dev に投稿する記事を書くとき、既存の md を Zenn 用に最適化したいとき、SpeakerDeck / CodePen / Figma / Gist / JSFiddle / StackBlitz / Twitter / YouTube / GitHub の URL を貼って「埋め込みにして」「Zenn 記法に直して」と言われたとき</summary>
-  </entry>
-  <entry>
-    <title>zenn-article-writing</title>
-    <link href="https://claudskills.com/skills/zenn-article-writing/"/>
-    <id>https://claudskills.com/skills/zenn-article-writing/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>tktcorporation</name></author>
-    <summary>Zenn (zenn.dev) の技術記事を、外部の人気記事の構成パターンを調査・分析した上で執筆するスキル。 記事の企画・構成・執筆・改善の全工程をカバーする。 「Zenn 記事書いて」「記事を書きたい」「ブログ書いて」「紹介記事を作って」「〇〇の記事を書いて」 「技術ブログを書きたい」「Zenn に投稿したい」「記事の構成を考えて」「記事をリライトして」 といった依頼で必ず使うこと。記事の一部修正やタイトル変更だけの場合は不要。</summary>
-  </entry>
-  <entry>
-    <title>zenn-article-writer</title>
-    <link href="https://claudskills.com/skills/zenn-article-writer/"/>
-    <id>https://claudskills.com/skills/zenn-article-writer/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>optimisuke</name></author>
-    <summary>作業ログや agent との会話から Zenn 記事の素材を抽出し、筆者らしい文体で企画・構成・下書き・推敲して Zenn コンテンツリポジトリに保存する。新規作成・編集・画像配置にも使う。</summary>
-  </entry>
-  <entry>
-    <title>zen</title>
-    <link href="https://claudskills.com/skills/zen/"/>
-    <id>https://claudskills.com/skills/zen/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>simota</name></author>
-    <summary>Variable name improvement, function extraction, magic number constants, dead code removal, and code review. For refactoring and PR review — does not change behavior. Don't use for bug/security (Judge), new tests (Radar), architecture (Atlas), or feature implementation (Builder).</summary>
-  </entry>
-  <entry>
-    <title>zellij-worktree</title>
-    <link href="https://claudskills.com/skills/zellij-worktree/"/>
-    <id>https://claudskills.com/skills/zellij-worktree/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>barleytea</name></author>
-    <summary>Zellij git worktree workflow guide including keybindings (Ctrl+o g/G), pane/session modes, worktree switcher, and parallel development with Claude Code</summary>
-  </entry>
-  <entry>
-    <title>zeigarnik-effect</title>
-    <link href="https://claudskills.com/skills/zeigarnik-effect-vjrivmon-setup-software-ia/"/>
-    <id>https://claudskills.com/skills/zeigarnik-effect-vjrivmon-setup-software-ia/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>ClaudSkills</name></author>
-    <summary>Las tareas incompletas se recuerdan mejor que las completadas. Use cuando</summary>
-  </entry>
-  <entry>
-    <title>zeigarnik-effect</title>
-    <link href="https://claudskills.com/skills/zeigarnik-effect-vjrivmon-handwriting-ocr/"/>
-    <id>https://claudskills.com/skills/zeigarnik-effect-vjrivmon-handwriting-ocr/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>ClaudSkills</name></author>
-    <summary>Las tareas incompletas se recuerdan mejor que las completadas. Use cuando</summary>
-  </entry>
-  <entry>
-    <title>zeigarnik-effect</title>
-    <link href="https://claudskills.com/skills/zeigarnik-effect/"/>
-    <id>https://claudskills.com/skills/zeigarnik-effect/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>majiayu000</name></author>
-    <summary>Las tareas incompletas se recuerdan mejor que las completadas. Use cuando</summary>
-  </entry>
-  <entry>
-    <title>zd</title>
-    <link href="https://claudskills.com/skills/zd/"/>
-    <id>https://claudskills.com/skills/zd/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>ClaudSkills</name></author>
-    <summary>Manage Zendesk support tickets via the `zd` CLI. Use when the user asks about Zendesk tickets, support tickets, customer issues, helpdesk operations, or ticket triage. Covers listing, searching, creating, updating, and deleting tickets, plus authentication setup and Zendesk search queries. Triggers on tasks involving "zendesk", "zd", "support ticket", "ticket queue", "helpdesk", or "customer support".</summary>
-  </entry>
-  <entry>
-    <title>zbmath-interface</title>
-    <link href="https://claudskills.com/skills/zbmath-interface/"/>
-    <id>https://claudskills.com/skills/zbmath-interface/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>ClaudSkills</name></author>
-    <summary>Interface with zbMATH Open database</summary>
-  </entry>
-  <entry>
-    <title>OWASP ZAP</title>
-    <link href="https://claudskills.com/skills/zap/"/>
-    <id>https://claudskills.com/skills/zap/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>Security Skills Team</name></author>
-    <summary>Web application security scanner with proxy and active/passive scanning</summary>
-  </entry>
-  <entry>
-    <title>zamzam-product-manager-governance</title>
-    <link href="https://claudskills.com/skills/zamzam-product-manager-governance/"/>
-    <id>https://claudskills.com/skills/zamzam-product-manager-governance/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>ClaudSkills</name></author>
-    <summary>استخدم هذه المهارة عند أي تعديل أو تطوير يتعلق بنظام إدارة صور المنتجات في زمزم سنتر جملة. تشمل هذه المهارة: صفحة `product-manager.html`، صفحة `admin_v2/image-manager.html`، و endpoints المرتبطة (`upload-product-image.php`, `update-product-image.php`, `add-product.php`, `img-proxy.php`, `delete-uploaded-image.php`)، إضافة إلى سكربت ترحيل الصور الخارجية المستقبلي.</summary>
-  </entry>
-  <entry>
-    <title>zakharyan-launch-system</title>
-    <link href="https://claudskills.com/skills/zakharyan-launch-system/"/>
-    <id>https://claudskills.com/skills/zakharyan-launch-system/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>samurano</name></author>
-    <summary>Используй когда нужно обработать урок Захаряна или применить систему к рынку, ЦА, продукту, цене, трафику, рекламе, Reels, продажам, контенту, кейсам, ручной воронке, доставке продукта, падающему рынку, закрытым группам или блогу.</summary>
-  </entry>
-  <entry>
-    <title>zaker-news-search</title>
-    <link href="https://claudskills.com/skills/zaker-news-search/"/>
-    <id>https://claudskills.com/skills/zaker-news-search/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>ClaudSkills</name></author>
-    <summary>基于ZAKER权威资讯库进行关键词新闻检索，支持指定时间范围（30天内）。Use when the user asks about 搜索新闻, 某事件新闻, 某人物新闻, 某关键词相关新闻, 查新闻, 新闻检索, 相关新闻, 某时间段新闻.</summary>
-  </entry>
-  <entry>
-    <title>zaker-hot-news</title>
-    <link href="https://claudskills.com/skills/zaker-hot-news/"/>
-    <id>https://claudskills.com/skills/zaker-hot-news/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>ClaudSkills</name></author>
-    <summary>获取ZAKER聚合权威媒体的最新头条新闻与热点资讯。Use when the user asks about 新闻, 头条, 最新新闻, 今日新闻, 热点新闻, 突发新闻, 国内外大事, 最近发生了什么, 有什么新鲜事, trending news, latest news, headlines, breaking news, what’s happening.</summary>
-  </entry>
-  <entry>
-    <title>zaker-category-news</title>
-    <link href="https://claudskills.com/skills/zaker-category-news/"/>
-    <id>https://claudskills.com/skills/zaker-category-news/</id>
-    <updated>2026-05-28T00:00:00Z</updated>
-    <author><name>ClaudSkills</name></author>
-    <summary>获取ZAKER按行业分类的热门新闻（娱乐、科技、财经等）。Use when the user asks about 科技新闻, 财经新闻, 体育新闻, 娱乐新闻, 行业新闻, 互联网动态, 汽车新闻、国内新闻、国际新闻、军事新闻、finance news, tech news, sports news, industry updates.</summary>
+    <title>zero-downtime-migration</title>
+    <link href="https://claudskills.com/skills/zero-downtime-migration/"/>
+    <id>https://claudskills.com/skills/zero-downtime-migration/</id>
+    <updated>2026-05-29T00:00:00Z</updated>
+    <author><name>Yoodaddy0311</name></author>
+    <summary>Production 무중단 마이그레이션 6섹션 체크리스트 (Pre-migration / Rollout / Validation / Rollback / Communication / Worst-Case) — production 매출·고객 데이터가 걸린 작업. 자연어 트리거: 마이그레이션, 이전, 교체, 롤아웃, 무중단 배포, 점진 전환, DB 이전, 결제 시스템 교체, Postgres→Mongo, MySQL→PostgreSQL, Auth0→Cognito, Node 16→20, Python 2→3, Stripe→Toss, migrate from X to Y, switch from X to Y, replace X with Y, cutover, dual write, canary rollout, feature flag rollout, rolling deployment, blue-green deployment.</summary>
   </entry>
 </feed>
