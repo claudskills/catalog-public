@@ -4,406 +4,406 @@
   <link href="https://claudskills.com/"/>
   <link rel="self" href="https://github.com/claudskills/catalog-public/raw/main/feed.atom"/>
   <id>https://github.com/claudskills/catalog-public/feed.atom</id>
-  <updated>2026-05-31T06:45:52Z</updated>
+  <updated>2026-06-01T08:21:32Z</updated>
   <author><name>ClaudSkills</name></author>
+  <entry>
+    <title>zyte-api-automation</title>
+    <link href="https://claudskills.com/skills/zyte-api-automation/"/>
+    <id>https://claudskills.com/skills/zyte-api-automation/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>ClaudSkills</name></author>
+    <summary>Automate Zyte API tasks via Rube MCP (Composio). Always search tools first for current schemas.</summary>
+  </entry>
+  <entry>
+    <title>zylvie-automation</title>
+    <link href="https://claudskills.com/skills/zylvie-automation/"/>
+    <id>https://claudskills.com/skills/zylvie-automation/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>ClaudSkills</name></author>
+    <summary>Automate Zylvie tasks via Rube MCP (Composio). Always search tools first for current schemas.</summary>
+  </entry>
+  <entry>
+    <title>zylos-memory</title>
+    <link href="https://claudskills.com/skills/zylos-memory/"/>
+    <id>https://claudskills.com/skills/zylos-memory/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>zylos-ai</name></author>
+    <summary>Core memory system. Maintains persistent memory across sessions via tiered markdown files following the Inside Out model. Handles Memory Sync (processing conversations into structured memory), session rotation, consolidation, and context-aware state saving. Must be launched via a runtime-appropriate background subagent mechanism — do not invoke with the Skill tool.</summary>
+  </entry>
   <entry>
     <title>zx</title>
     <link href="https://claudskills.com/skills/zx/"/>
     <id>https://claudskills.com/skills/zx/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
+    <updated>2026-06-01T00:00:00Z</updated>
     <author><name>LeoYeAI</name></author>
     <summary>Comprehensive guide for writing shell scripts with Google zx — a tool for writing better scripts using JavaScript/TypeScript. Use when writing, debugging, or refactoring zx scripts (.mjs, .js, .ts files using zx), executing shell commands from JavaScript, working with ProcessPromise/ProcessOutput APIs, piping streams, configuring zx options, or using zx CLI.  Do NOT use for general Node.js questions unrelated to shell scripting.</summary>
+  </entry>
+  <entry>
+    <title>zwiezle</title>
+    <link href="https://claudskills.com/skills/zwiezle/"/>
+    <id>https://claudskills.com/skills/zwiezle/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>ClaudSkills</name></author>
+    <summary>Przełącz agenta na zwięzły polski. Trzy poziomy intensywności oszczędzania tokenów.</summary>
+  </entry>
+  <entry>
+    <title>zvg-verteilungsplan-155</title>
+    <link href="https://claudskills.com/skills/zvg-verteilungsplan-155/"/>
+    <id>https://claudskills.com/skills/zvg-verteilungsplan-155/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Verteilungsplan nach § 155 ZVG. Ordnet Nutzungen Ausgaben Kosten Gläubigerzahlungen Vorschuesse Rang und Auszahlung in der Zwangsverwaltung.</summary>
+  </entry>
+  <entry>
+    <title>zvg-versteigerungsteilnahme</title>
+    <link href="https://claudskills.com/skills/zvg-versteigerungsteilnahme/"/>
+    <id>https://claudskills.com/skills/zvg-versteigerungsteilnahme/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Bereitet die Teilnahme am Zwangsversteigerungstermin vor: Ausweis, Vertretung, Sicherheitsleistung, geringstes Gebot, Bietstrategie, Zuschlagsgrenzen, Protokoll und Nachbereitung.</summary>
+  </entry>
+  <entry>
+    <title>zvg-versicherungen-gefahren</title>
+    <link href="https://claudskills.com/skills/zvg-versicherungen-gefahren/"/>
+    <id>https://claudskills.com/skills/zvg-versicherungen-gefahren/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Versicherungen und Gefahren in der Zwangsverwaltung. Prüft Gebäudeversicherung Haftpflicht Beitragsrückstände Schadenmeldung Deckung und Sicherung.</summary>
+  </entry>
+  <entry>
+    <title>zvg-verkauf-versteigerung-schnittstelle</title>
+    <link href="https://claudskills.com/skills/zvg-verkauf-versteigerung-schnittstelle/"/>
+    <id>https://claudskills.com/skills/zvg-verkauf-versteigerung-schnittstelle/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Schnittstelle zwischen Zwangsverwaltung und Zwangsversteigerung. Führt Objektinformationen Besichtigungen Werterhalt Mieterlage Bieterfragen und Aufhebung.</summary>
+  </entry>
+  <entry>
+    <title>zvg-simulation-training</title>
+    <link href="https://claudskills.com/skills/zvg-simulation-training/"/>
+    <id>https://claudskills.com/skills/zvg-simulation-training/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Simulation und Training für Zwangsverwaltung. Führt acht Stunden ZVG Arbeit mit Mieterpost Objektgefahr Kontoabgleich Gericht Bericht und Verteilung.</summary>
+  </entry>
+  <entry>
+    <title>zvg-rechnungslegung</title>
+    <link href="https://claudskills.com/skills/zvg-rechnungslegung/"/>
+    <id>https://claudskills.com/skills/zvg-rechnungslegung/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Rechnungslegung der Zwangsverwaltung. Erstellt Jahresrechnung Schlussrechnung Endabrechnung Einnahmenueberschussrechnung Soll Ist Belege und Salden.</summary>
+  </entry>
+  <entry>
+    <title>zvg-raeumung-kuendigung</title>
+    <link href="https://claudskills.com/skills/zvg-raeumung-kuendigung/"/>
+    <id>https://claudskills.com/skills/zvg-raeumung-kuendigung/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Räumung Kündigung und Besitzkonflikte in der Zwangsverwaltung. Prüft Schuldnerwohnraeume Mieterrechte Kündigungsgruende Zutritt und Gerichtspfad.</summary>
+  </entry>
+  <entry>
+    <title>zvg-quality-gate</title>
+    <link href="https://claudskills.com/skills/zvg-quality-gate/"/>
+    <id>https://claudskills.com/skills/zvg-quality-gate/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Quality Gate für Zwangsverwaltung. Prüft Beschluss Objekt Konto Rent Roll Berichte Rechnungslegung Verteilung Belege Rollen und Risiken vor Versand.</summary>
+  </entry>
+  <entry>
+    <title>zvg-portal-recherche</title>
+    <link href="https://claudskills.com/skills/zvg-portal-recherche/"/>
+    <id>https://claudskills.com/skills/zvg-portal-recherche/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Recherchiert Zwangsversteigerungstermine im amtlichen ZVG-Portal, dokumentiert Suchparameter, Treffer, Gutachten-/Exposee-Downloads und Grenzen der Recherche.</summary>
+  </entry>
+  <entry>
+    <title>zvg-oeffentliche-lasten</title>
+    <link href="https://claudskills.com/skills/zvg-oeffentliche-lasten/"/>
+    <id>https://claudskills.com/skills/zvg-oeffentliche-lasten/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Öffentliche Lasten und grundstuecksbezogene Abgaben in der Zwangsverwaltung. Erfasst Grundsteuer Gebuehren Beitraege Rang Fälligkeit und Zahlung.</summary>
+  </entry>
+  <entry>
+    <title>zvg-mieteinzug-rueckstaende</title>
+    <link href="https://claudskills.com/skills/zvg-mieteinzug-rueckstaende/"/>
+    <id>https://claudskills.com/skills/zvg-mieteinzug-rueckstaende/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Mieteinzug Rückstände und Zahlungsabgleich in der Zwangsverwaltung. Führt Soll Ist Mahnung Ratenzahlung Klage Zahlungseingang und Kontoabgleich.</summary>
+  </entry>
+  <entry>
+    <title>zvg-miet-und-pachtverwaltung</title>
+    <link href="https://claudskills.com/skills/zvg-miet-und-pachtverwaltung/"/>
+    <id>https://claudskills.com/skills/zvg-miet-und-pachtverwaltung/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Miet und Pachtverwaltung in der Zwangsverwaltung. Prüft Mietvertraege Pachtvertraege Zahlstellen Vorausverfuegungen Kautionen Nebenkosten und Nutzung.</summary>
+  </entry>
+  <entry>
+    <title>zvg-konten-kassenfuehrung</title>
+    <link href="https://claudskills.com/skills/zvg-konten-kassenfuehrung/"/>
+    <id>https://claudskills.com/skills/zvg-konten-kassenfuehrung/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Konten Kassenfuehrung und Buchfuehrung der Zwangsverwaltung. Führt Treuhandkonto Soll Ist Einnahmen Ausgaben Belege Vorschuss und Auskunft.</summary>
+  </entry>
+  <entry>
+    <title>zvg-kommandocenter</title>
+    <link href="https://claudskills.com/skills/zvg-kommandocenter/"/>
+    <id>https://claudskills.com/skills/zvg-kommandocenter/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>ZVG Zwangsverwaltungs-Kommandocenter. Triage Bestellung Beschlagnahme Besitz Mieter Konto Bericht Rechnungslegung Verteilung und Risiken freistehend.</summary>
+  </entry>
+  <entry>
+    <title>zvg-instandhaltung-sicherung</title>
+    <link href="https://claudskills.com/skills/zvg-instandhaltung-sicherung/"/>
+    <id>https://claudskills.com/skills/zvg-instandhaltung-sicherung/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Instandhaltung Sicherung und Gefahrenabwehr in der Zwangsverwaltung. Führt Verkehrssicherung Notmaßnahmen Reparaturen Zustimmung Budget und Dokumentation.</summary>
+  </entry>
+  <entry>
+    <title>zvg-insolvenz-schnittstelle</title>
+    <link href="https://claudskills.com/skills/zvg-insolvenz-schnittstelle/"/>
+    <id>https://claudskills.com/skills/zvg-insolvenz-schnittstelle/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Schnittstelle Zwangsverwaltung und Insolvenz. Prüft Insolvenz des Schuldners Absonderung Verwalterkommunikation § 165 InsO Forderungen und Verteilung.</summary>
+  </entry>
+  <entry>
+    <title>zvg-glaeubiger-schuldner-kommunikation</title>
+    <link href="https://claudskills.com/skills/zvg-glaeubiger-schuldner-kommunikation/"/>
+    <id>https://claudskills.com/skills/zvg-glaeubiger-schuldner-kommunikation/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Kommunikation in der Zwangsverwaltung. Erstellt Schreiben an Schuldner Gläubiger Mieter Paechter Gericht Versicherer Kommune und Dienstleister.</summary>
+  </entry>
+  <entry>
+    <title>zvg-bieterangebot-bewertung</title>
+    <link href="https://claudskills.com/skills/zvg-bieterangebot-bewertung/"/>
+    <id>https://claudskills.com/skills/zvg-bieterangebot-bewertung/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Bewertet Zwangsversteigerungsobjekte und Bieterangebote aus Investorensicht: Verkehrswert, geringstes Gebot, Sicherheitsleistung, bestehenbleibende Rechte, Mietlage, Sanierungsrisiko und Bietlimit.</summary>
+  </entry>
+  <entry>
+    <title>zvg-betriebskosten-hausgeld</title>
+    <link href="https://claudskills.com/skills/zvg-betriebskosten-hausgeld/"/>
+    <id>https://claudskills.com/skills/zvg-betriebskosten-hausgeld/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Betriebskosten Hausgeld und laufende Objektkosten. Prüft Nebenkosten Dienstleister WEG Hausgeld Versorger Wirtschaftlichkeit Abrechnung und Zahlungsplan.</summary>
+  </entry>
+  <entry>
+    <title>zvg-bestellung-beschlagnahme</title>
+    <link href="https://claudskills.com/skills/zvg-bestellung-beschlagnahme/"/>
+    <id>https://claudskills.com/skills/zvg-bestellung-beschlagnahme/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Bestellung Beschlagnahme und Ausweis in der Zwangsverwaltung. Prüft Anordnungsbeschluss Bestallung Objekt Schuldner Gläubiger Rang Umfang und Weisungen.</summary>
+  </entry>
+  <entry>
+    <title>zvg-besitzuebernahme</title>
+    <link href="https://claudskills.com/skills/zvg-besitzuebernahme/"/>
+    <id>https://claudskills.com/skills/zvg-besitzuebernahme/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Besitzerlangung ueber das Zwangsverwaltungsobjekt. Führt Vor-Ort-Termin Bericht Objektbeschreibung Nutzungen Rechte Mobilien Forderungen Lasten und Ausgaben.</summary>
+  </entry>
+  <entry>
+    <title>zvg-berichtswesen-gericht</title>
+    <link href="https://claudskills.com/skills/zvg-berichtswesen-gericht/"/>
+    <id>https://claudskills.com/skills/zvg-berichtswesen-gericht/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Berichtswesen an das Vollstreckungsgericht in der Zwangsverwaltung. Erstellt Besitzerlangungsbericht Sachstandsbericht Monatsbericht und Entscheidungsvorlage.</summary>
+  </entry>
+  <entry>
+    <title>zvg-aktenanlage-objektcockpit</title>
+    <link href="https://claudskills.com/skills/zvg-aktenanlage-objektcockpit/"/>
+    <id>https://claudskills.com/skills/zvg-aktenanlage-objektcockpit/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Aktenanlage und Objektcockpit für Zwangsverwaltung. Erstellt Objektkarte Beteiligtenregister Mieterliste Lasten Konto Fristen Berichte und Wiedervorlagen.</summary>
+  </entry>
+  <entry>
+    <title>zv-zvg-antrag-glaeubiger</title>
+    <link href="https://claudskills.com/skills/zv-zvg-antrag-glaeubiger/"/>
+    <id>https://claudskills.com/skills/zv-zvg-antrag-glaeubiger/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Antrag auf Zwangsversteigerung oder Zwangsverwaltung aus Gläubigersicht nach ZVG. Bereitet Anordnung §§ 15 ff. ZVG, Beitritt § 27 ZVG, geringstes Gebot, Bargebot und Verteilungstermin vor. Setzt eingetragenes Recht (Hypothek, Grundschuld) oder persönlichen Titel mit Eintragung Zwangshypothek § 866 ZPO voraus. Lädt bei Immobiliarvollstreckung.</summary>
+  </entry>
+  <entry>
+    <title>zv-vollstreckungsschutz-haertefall-765a</title>
+    <link href="https://claudskills.com/skills/zv-vollstreckungsschutz-haertefall-765a/"/>
+    <id>https://claudskills.com/skills/zv-vollstreckungsschutz-haertefall-765a/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Vollstreckungsschutz nach § 765a ZPO bei sittenwidriger Haerte. Antrag des Schuldners auf einstweilige Einstellung oder Beschraenkung der Vollstreckung. Anwendungsfaelle Krankheit Suizidgefahr Geburt Obdachlosigkeit Tod naher Angehoeriger. Abgrenzung zu § 769 ZPO (einstweilige Einstellung bei Abwehrklage) und § 712 ZPO (vorlaeufige Vollstreckung). Beweislast Schuldner und Glaubhaftmachung. Schreibvorlage Antrag Glaubhaftmachung Eidesstattliche Versicherung.</summary>
+  </entry>
+  <entry>
+    <title>zv-vollstreckungsbescheid-folge</title>
+    <link href="https://claudskills.com/skills/zv-vollstreckungsbescheid-folge/"/>
+    <id>https://claudskills.com/skills/zv-vollstreckungsbescheid-folge/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Steuert das Verfahren nach Erlass des Mahnbescheids: Beantragung des Vollstreckungsbescheids nach § 699 ZPO über das Online-Mahnportal, Reaktion auf Einspruch nach § 700 ZPO, Übergang ins streitige Verfahren. Erläutert die Wirkung des VB als Vollstreckungstitel mit Klausel kraft Gesetzes § 796 Abs. 1 ZPO und die Vollstreckung aus dem VB. Lädt nach Mahnbescheid oder vor VB-Antrag.</summary>
+  </entry>
+  <entry>
+    <title>zv-vermoegensauskunft-gv</title>
+    <link href="https://claudskills.com/skills/zv-vermoegensauskunft-gv/"/>
+    <id>https://claudskills.com/skills/zv-vermoegensauskunft-gv/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Auftrag zur Abnahme der Vermögensauskunft (§ 802c ZPO) durch den Gerichtsvollzieher und Auswertung des Vermögensverzeichnisses. Beachtet Sperrfrist § 802d ZPO (zwei Jahre), Eintragung in das Schuldnerverzeichnis § 882b ZPO, Erzwingungshaft § 802g ZPO. Lädt, wenn keine konkreten Vermögenswerte des Schuldners bekannt sind.</summary>
+  </entry>
+  <entry>
+    <title>zv-titel-klausel-zustellung</title>
+    <link href="https://claudskills.com/skills/zv-titel-klausel-zustellung/"/>
+    <id>https://claudskills.com/skills/zv-titel-klausel-zustellung/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Prüft die drei Säulen der Zwangsvollstreckung nach § 704 sowie §§ 724 und 750 ZPO: vollstreckbarer Titel, Vollstreckungsklausel und Zustellung an den Schuldner. Klärt Klauselbeschaffung beim Urkundsbeamten/Notar/Insolvenzgericht, Übertragung der Klausel auf Rechtsnachfolger nach §§ 727 ff. ZPO, qualifizierte Klausel bei bedingten Titeln und Wartefrist § 750 Abs. 1 ZPO. Lädt, wenn Unsicherheit besteht, ob aus einem Titel überhaupt vollstreckt werden darf.</summary>
+  </entry>
+  <entry>
+    <title>zv-tabellenauszug-201-inso</title>
+    <link href="https://claudskills.com/skills/zv-tabellenauszug-201-inso/"/>
+    <id>https://claudskills.com/skills/zv-tabellenauszug-201-inso/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Vollstreckung aus dem Tabellenauszug nach § 201 Abs. 2 InsO nach Aufhebung oder Beendigung des Insolvenzverfahrens. Klärt Voraussetzungen (festgestellt, nicht vom Schuldner bestritten, kein Restschuldbefreiungs-Versagungsgrund), Klausel- und Zustellungsformalia, 30-Jahres-Verjährung § 197 BGB und Schranken bei Restschuldbefreiung § 301 InsO. Lädt, sobald ein Tabellenauszug als Titel vorliegt.</summary>
+  </entry>
+  <entry>
+    <title>zv-raeumung-885</title>
+    <link href="https://claudskills.com/skills/zv-raeumung-885/"/>
+    <id>https://claudskills.com/skills/zv-raeumung-885/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Räumungsvollstreckung nach § 885 ZPO und beschränkter Räumungsauftrag mit Vermieterpfandrecht nach § 885a ZPO (Berliner Modell). Klärt Räumungstitel, Klausel, Zustellung, Mitbewohner-Problematik (Kinder, Untermieter, Lebensgefährten), Drittwiderspruch § 771 ZPO und Vollstreckungsschutz § 765a ZPO. Lädt bei Räumung von Wohn- oder Gewerberäumen.</summary>
+  </entry>
+  <entry>
+    <title>zv-pfueb-mieter-finanzamt</title>
+    <link href="https://claudskills.com/skills/zv-pfueb-mieter-finanzamt/"/>
+    <id>https://claudskills.com/skills/zv-pfueb-mieter-finanzamt/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>PfÜB gegen sonstige Drittschuldner: Mieter (Mietzinsforderung), Finanzamt (Steuererstattung, Kindergeld nur eingeschränkt), Krankenkassen (Krankengeld), Versicherungen (Rückkaufswert), Geschäftspartner (offene Rechnungen). Beachtet § 851 ZPO Unübertragbarkeit, § 850b ZPO bedingt pfändbare Bezüge, § 46 AO Steueranspruchsabtretung. Lädt, wenn weder Bank noch Arbeitgeber Drittschuldner ist.</summary>
+  </entry>
+  <entry>
+    <title>zv-pfueb-bank</title>
+    <link href="https://claudskills.com/skills/zv-pfueb-bank/"/>
+    <id>https://claudskills.com/skills/zv-pfueb-bank/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Pfändungs- und Überweisungsbeschluss (PfÜB) gegen Bankkonten des Schuldners nach §§ 829 und 835 ZPO. Erzeugt Antrag mit Drittschuldner-Bank, beachtet P-Konto-Schutz § 850k ZPO, Sockelbetrag, kindergeldspezifische Erhöhungen und das ZVollstrDigitG: ab 1.10.2026 XML-Antrag nach § 829 Abs. 5 ZPO n.F., ab 1.10.2027 zwingende elektronische Zustellung an Banken über sicheren Übermittlungsweg (§ 173 Abs. 2 Nr. 1 ZPO n.F.). Lädt bei jeder Kontopfändung.</summary>
+  </entry>
+  <entry>
+    <title>zv-pfueb-arbeitsentgelt</title>
+    <link href="https://claudskills.com/skills/zv-pfueb-arbeitsentgelt/"/>
+    <id>https://claudskills.com/skills/zv-pfueb-arbeitsentgelt/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Lohn- und Gehaltspfändung nach §§ 829 und 835 sowie §§ 850 ff. ZPO. Erzeugt PfÜB gegen den Arbeitgeber als Drittschuldner, berechnet pfändbaren Betrag nach Pfändungstabelle 1.7.2025 bis 30.6.2026, berücksichtigt unterhaltsberechtigte Personen, Sonderzuwendungen § 850a ZPO und Anschlusspfändungen § 850e ZPO. Lädt bei Lohn-/Renten-/Sozialleistungs- oder Selbstständigen-Vergütungs-Pfändungen.</summary>
+  </entry>
+  <entry>
+    <title>zv-pfaendungstabelle-2025</title>
+    <link href="https://claudskills.com/skills/zv-pfaendungstabelle-2025/"/>
+    <id>https://claudskills.com/skills/zv-pfaendungstabelle-2025/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Berechnet pfändbare Beträge nach Pfändungsfreigrenzenbekanntmachung 1.7.2025 (gültig bis 30.6.2026; danach jährliche Anpassung nach § 850c Abs. 4 ZPO). Liefert Freibetrag nach § 850c ZPO inklusive Unterhaltsstaffel, Pfändungsstufen, P-Konto-Sockel § 850k ZPO und privilegierte Berechnung § 850d ZPO. Ruft das Python-Werkzeug werkzeuge/pfaendungsrechner.py auf. Lädt bei jeder Berechnung pfändbarer Bezüge.</summary>
+  </entry>
+  <entry>
+    <title>zv-notarielle-urkunde-grundschuld</title>
+    <link href="https://claudskills.com/skills/zv-notarielle-urkunde-grundschuld/"/>
+    <id>https://claudskills.com/skills/zv-notarielle-urkunde-grundschuld/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Zwangsvollstreckung aus notarieller Urkunde mit Unterwerfungsklausel (§ 794 Abs. 1 Nr. 5 ZPO), insbesondere Grundschuld mit dinglicher und persönlicher Unterwerfung. Klärt Klauselumschreibung § 727 ZPO bei Forderungsabtretung, Sicherungsabrede, Kündigung § 1193 BGB, Sechs-Monats-Frist, Vollstreckung in das Grundstück (ZVG) und in das persönliche Vermögen (PfÜB).</summary>
+  </entry>
+  <entry>
+    <title>zv-mobiliar-gv-auftrag</title>
+    <link href="https://claudskills.com/skills/zv-mobiliar-gv-auftrag/"/>
+    <id>https://claudskills.com/skills/zv-mobiliar-gv-auftrag/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Sachpfändung durch den Gerichtsvollzieher nach §§ 808 ff. ZPO. Bereitet Auftrag, Modulwahl § 802a ZPO, Anlaufstellen (Wohnung, Geschäftsräume), Unpfändbarkeitskatalog § 811 ZPO, Austauschpfändung § 811a ZPO und Versteigerungsalternativen (§ 825 ZPO Internet-Versteigerung) vor. Lädt, wenn bewegliche körperliche Sachen vor Ort gepfändet werden sollen.</summary>
+  </entry>
+  <entry>
+    <title>zv-mahnbescheid-online</title>
+    <link href="https://claudskills.com/skills/zv-mahnbescheid-online/"/>
+    <id>https://claudskills.com/skills/zv-mahnbescheid-online/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Begleitet den Antrag auf Mahnbescheid nach §§ 688 ff. ZPO über das Online-Mahnportal der Länder www.online-mahnantrag.de Schritt für Schritt: Schlüssigkeitsprüfung, Antragstyp, Gerichtsstandwahl, Hauptforderung, Nebenforderungen, Zinsen, Kostenfestsetzung, Übermittlung per beA, EGVP oder Druckanzeige. Klärt Anhängigkeit und Verjährungshemmung § 204 Abs. 1 Nr. 3 BGB. Lädt, wenn Mandat einen Mahnantrag stellen oder verteidigen will.</summary>
+  </entry>
+  <entry>
+    <title>zv-kontensuche-drittschuldner</title>
+    <link href="https://claudskills.com/skills/zv-kontensuche-drittschuldner/"/>
+    <id>https://claudskills.com/skills/zv-kontensuche-drittschuldner/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Konten und Drittschuldner des Schuldners finden, wenn Bank, Arbeitgeber oder Forderungsschuldner unbekannt sind. Nutzt § 802l ZPO Drittauskünfte (Rentenversicherung Bund, Bundeszentralamt für Steuern Kontenabruf, Kraftfahrt-Bundesamt) sowie Schuldnerverzeichnis § 882b ZPO. Lädt vor jeder PfÜB-Pfändung ohne bekannten Drittschuldner.</summary>
+  </entry>
+  <entry>
+    <title>zv-kommandocenter</title>
+    <link href="https://claudskills.com/skills/zv-kommandocenter/"/>
+    <id>https://claudskills.com/skills/zv-kommandocenter/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Startpunkt der Zwangsvollstreckung. Fragt nach Titelart und Vollstreckungsziel und entscheidet, welcher Folge-Skill geladen wird: Mahnbescheid, PfÜB, notarielle Urkunde, Tabellenauszug, ZVG, Mobiliar, Räumung, Vermögensauskunft, Kontensuche oder Schuldnerabwehr. Prüft die drei Säulen Titel, Klausel, Zustellung vor jedem weiteren Schritt. Lädt, wenn ein Mandat die Einleitung oder Steuerung einer Vollstreckung betrifft.</summary>
+  </entry>
+  <entry>
+    <title>zv-eu-kontenpfaendung-655-2014</title>
+    <link href="https://claudskills.com/skills/zv-eu-kontenpfaendung-655-2014/"/>
+    <id>https://claudskills.com/skills/zv-eu-kontenpfaendung-655-2014/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Europaeische Kontenpfaendung nach Verordnung (EU) Nr. 655/2014 (EuKtPVO) — vorlaeufige grenzueberschreitende Sicherung von Bankkonten in der EU. § 946 ff. ZPO i.V.m. EuKtPVO. Antrag beim deutschen Gericht der Hauptsache; Zustaendigkeit § 946 ZPO. Glaubhaftmachung Anspruch und Sicherungsbeduerfnis. Sicherheitsleistung. Drittwirkung in allen Mitgliedstaaten (außer Daenemark). Folge-PfUeB national nach § 829 ZPO ergaenzend moeglich. Lädt bei Schuldnerkonto im EU-Ausland.</summary>
+  </entry>
+  <entry>
+    <title>zv-elektronische-zustellung-2027</title>
+    <link href="https://claudskills.com/skills/zv-elektronische-zustellung-2027/"/>
+    <id>https://claudskills.com/skills/zv-elektronische-zustellung-2027/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Operative Umsetzung des Gesetzes zur weiteren Digitalisierung der Zwangsvollstreckung (ZVollstrDigitG, BT-Drs. 21/4815): XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026, Pflicht der Kreditinstitute zur Eröffnung eines sicheren Übermittlungsweges ab 1.10.2027 (§ 173 Abs. 2 Nr. 1 ZPO n.F.), eBO, § 130a Abs. 4 ZPO, neue ZVFV-Formulare, § 840 ZPO Drittschuldnererklärung. Aktualisiert Datum, falls Verkündung im BGBl nachgereicht. Lädt zu jeder Pfändung, deren Zustellung elektronisch erfolgt oder erfolg</summary>
+  </entry>
+  <entry>
+    <title>zv-abwehr-schuldner</title>
+    <link href="https://claudskills.com/skills/zv-abwehr-schuldner/"/>
+    <id>https://claudskills.com/skills/zv-abwehr-schuldner/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
+    <author><name>Klotzkette</name></author>
+    <summary>Schuldnerseite: Abwehr unzulässiger oder unbilliger Zwangsvollstreckung. Klärt Erinnerung § 766 ZPO (formale Mängel), Vollstreckungsabwehrklage § 767 ZPO (materielle Einwendungen), Klauselgegenklage § 768 ZPO, Drittwiderspruchsklage § 771 ZPO, Vollstreckungsschutz § 765a ZPO, P-Konto-Freigabe § 850k ZPO, einstweilige Einstellung § 769 ZPO. Lädt aus Schuldnerperspektive.</summary>
   </entry>
   <entry>
     <title>zutilo-guide</title>
     <link href="https://claudskills.com/skills/zutilo-guide/"/>
     <id>https://claudskills.com/skills/zutilo-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
+    <updated>2026-06-01T00:00:00Z</updated>
     <author><name>brycewang-stanford</name></author>
     <summary>Zotero utility plugin for keyboard shortcuts and batch editing</summary>
   </entry>
   <entry>
-    <title>zread-expert</title>
-    <link href="https://claudskills.com/skills/zread-expert/"/>
-    <id>https://claudskills.com/skills/zread-expert/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>owner</name></author>
-    <summary>Deep repository analysis skill for Z.AI Zread MCP.</summary>
-  </entry>
-  <entry>
-    <title>zotmoov-guide</title>
-    <link href="https://claudskills.com/skills/zotmoov-guide/"/>
-    <id>https://claudskills.com/skills/zotmoov-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>Zotero plugin for automatic attachment file organization</summary>
-  </entry>
-  <entry>
-    <title>zotfile-attachment-guide</title>
-    <link href="https://claudskills.com/skills/zotfile-attachment-guide/"/>
-    <id>https://claudskills.com/skills/zotfile-attachment-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>Guide to ZotFile for Zotero attachment management, renaming, and syncing</summary>
-  </entry>
-  <entry>
-    <title>zotero-style-guide</title>
-    <link href="https://claudskills.com/skills/zotero-style-guide/"/>
-    <id>https://claudskills.com/skills/zotero-style-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>Feature-rich Zotero plugin for UI customization and styling</summary>
-  </entry>
-  <entry>
-    <title>zotero-scholar-guide</title>
-    <link href="https://claudskills.com/skills/zotero-scholar-guide/"/>
-    <id>https://claudskills.com/skills/zotero-scholar-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>Save papers with metadata to Zotero via its API programmatically</summary>
-  </entry>
-  <entry>
-    <title>zotero-reference-guide</title>
-    <link href="https://claudskills.com/skills/zotero-reference-guide/"/>
-    <id>https://claudskills.com/skills/zotero-reference-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>wentor-community</name></author>
-    <summary>PDF references add-on for enriching Zotero library metadata</summary>
-  </entry>
-  <entry>
-    <title>zotero-pdf2zh-guide</title>
-    <link href="https://claudskills.com/skills/zotero-pdf2zh-guide/"/>
-    <id>https://claudskills.com/skills/zotero-pdf2zh-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>wentor-community</name></author>
-    <summary>PDF Chinese translation plugin for Zotero reference manager</summary>
-  </entry>
-  <entry>
-    <title>zotero-pdf-translate-guide</title>
-    <link href="https://claudskills.com/skills/zotero-pdf-translate-guide/"/>
-    <id>https://claudskills.com/skills/zotero-pdf-translate-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>Guide to Zotero PDF Translate for multilingual PDF and annotation translation</summary>
-  </entry>
-  <entry>
-    <title>zotero-obsidian-bridge</title>
-    <link href="https://claudskills.com/skills/zotero-obsidian-bridge/"/>
-    <id>https://claudskills.com/skills/zotero-obsidian-bridge/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>Use this skill when papers are collected in Zotero but the user wants detailed reading notes, project-linked literature synthesis, collection-wide paper-note coverage checks, and a connected knowledge map inside the bound Obsidian project knowledge base.</summary>
-  </entry>
-  <entry>
-    <title>zotero-night-theme-guide</title>
-    <link href="https://claudskills.com/skills/zotero-night-theme-guide/"/>
-    <id>https://claudskills.com/skills/zotero-night-theme-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>Dark mode theme plugin for Zotero reference manager</summary>
-  </entry>
-  <entry>
-    <title>zotero-mdnotes-guide</title>
-    <link href="https://claudskills.com/skills/zotero-mdnotes-guide/"/>
-    <id>https://claudskills.com/skills/zotero-mdnotes-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>wentor-community</name></author>
-    <summary>Export Zotero items and annotations to Markdown note files</summary>
-  </entry>
-  <entry>
-    <title>zotero-mcp-guide</title>
-    <link href="https://claudskills.com/skills/zotero-mcp-guide/"/>
-    <id>https://claudskills.com/skills/zotero-mcp-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>Guide to Zotero MCP for connecting Zotero library with AI assistants</summary>
-  </entry>
-  <entry>
-    <title>zotero-mcp-code</title>
-    <link href="https://claudskills.com/skills/zotero-mcp-code-neversight/"/>
-    <id>https://claudskills.com/skills/zotero-mcp-code-neversight/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>diegosouzapw</name></author>
-    <summary>Search Zotero library using code execution for efficient multi-strategy searches without crash risks. Use this skill when the user needs comprehensive Zotero searches with automatic deduplication and ranking.</summary>
-  </entry>
-  <entry>
-    <title>zotero-markdb-connect-guide</title>
-    <link href="https://claudskills.com/skills/zotero-markdb-connect-guide/"/>
-    <id>https://claudskills.com/skills/zotero-markdb-connect-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>Sync Zotero references to Obsidian and Logseq markdown</summary>
-  </entry>
-  <entry>
-    <title>zotero-fetcher</title>
-    <link href="https://claudskills.com/skills/zotero-inbox-builder/"/>
-    <id>https://claudskills.com/skills/zotero-inbox-builder/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>ZERO-A-ONE</name></author>
-    <summary>从 Zotero 兴趣画像出发抓取 arXiv 论文，排序后写入标准化 inbox Markdown。适用于收集论文、更新研究 feed、生成每日候选话题。</summary>
-  </entry>
-  <entry>
-    <title>zotero-gpt-guide</title>
-    <link href="https://claudskills.com/skills/zotero-gpt-guide/"/>
-    <id>https://claudskills.com/skills/zotero-gpt-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>Guide to Zotero GPT for AI-powered research assistance within Zotero</summary>
-  </entry>
-  <entry>
-    <title>zotero-citation</title>
-    <link href="https://claudskills.com/skills/zotero-citation/"/>
-    <id>https://claudskills.com/skills/zotero-citation/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
+    <title>zustand-store-ts</title>
+    <link href="https://claudskills.com/skills/zustand-store-ts/"/>
+    <id>https://claudskills.com/skills/zustand-store-ts/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
     <author><name>ClaudSkills</name></author>
-    <summary>Zotero 文献引用工作流助手。通过 Zotero 本地 API 读取文献库，为用户指定的文字段落或论文全文自动匹配参考文献，生成规范格式的 Reference。当用户需要"引用文献"、"分配参考文献"、"从 Zotero 选文献"、"生成 Reference 列表"、"匹配引用位置"、"添加参考文献"、"给这段话配引用"、"帮我找合适的参考文献"时触发。也适用于查询 Zotero 文献库、获取文献元数据、或管理论文 citation 的场景。</summary>
+    <summary>Create Zustand stores following established patterns with proper TypeScript types and middleware.</summary>
   </entry>
   <entry>
-    <title>zotero-better-notes-guide</title>
-    <link href="https://claudskills.com/skills/zotero-better-notes-guide/"/>
-    <id>https://claudskills.com/skills/zotero-better-notes-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>Guide to Zotero Better Notes for comprehensive note-taking in research</summary>
-  </entry>
-  <entry>
-    <title>zotero-better-bibtex-guide</title>
-    <link href="https://claudskills.com/skills/zotero-better-bibtex-guide/"/>
-    <id>https://claudskills.com/skills/zotero-better-bibtex-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>Guide to Better BibTeX for Zotero for LaTeX and BibTeX workflows</summary>
-  </entry>
-  <entry>
-    <title>zotero-arxiv-daily-guide</title>
-    <link href="https://claudskills.com/skills/zotero-arxiv-daily-guide/"/>
-    <id>https://claudskills.com/skills/zotero-arxiv-daily-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>Guide to Zotero arXiv Daily for personalized daily paper recommendations</summary>
-  </entry>
-  <entry>
-    <title>zotero-api</title>
-    <link href="https://claudskills.com/skills/zotero-api/"/>
-    <id>https://claudskills.com/skills/zotero-api/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>Reference management library and collections API</summary>
-  </entry>
-  <entry>
-    <title>zotero-ai-butler-guide</title>
-    <link href="https://claudskills.com/skills/zotero-ai-butler-guide/"/>
-    <id>https://claudskills.com/skills/zotero-ai-butler-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>AI-powered paper summarization plugin for Zotero</summary>
-  </entry>
-  <entry>
-    <title>zotero-addon-market-guide</title>
-    <link href="https://claudskills.com/skills/zotero-addon-market-guide/"/>
-    <id>https://claudskills.com/skills/zotero-addon-market-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>Plugin marketplace and discovery platform for Zotero</summary>
-  </entry>
-  <entry>
-    <title>zotero-actions-tags-guide</title>
-    <link href="https://claudskills.com/skills/zotero-actions-tags-guide/"/>
-    <id>https://claudskills.com/skills/zotero-actions-tags-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>Zotero workflow automation with custom actions and tags</summary>
-  </entry>
-  <entry>
-    <title>zoplicate-dedup-guide</title>
-    <link href="https://claudskills.com/skills/zoplicate-dedup-guide/"/>
-    <id>https://claudskills.com/skills/zoplicate-dedup-guide/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>brycewang-stanford</name></author>
-    <summary>Detect and manage duplicate items in Zotero libraries</summary>
-  </entry>
-  <entry>
-    <title>zoe</title>
-    <link href="https://claudskills.com/skills/zoe/"/>
-    <id>https://claudskills.com/skills/zoe/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>atm301</name></author>
-    <summary>執行特助 Zoe (Chief of Staff) — 彙整、排程、會議紀錄、跨角色協調。Use when user mentions 週報/月報/彙整/summary/排程/schedule/會議紀錄/meeting notes/待辦/todo/追蹤, or asks to 整理跨角色產出 or 寫 email. 不出主意，把事情串起來，最後收尾的人。</summary>
-  </entry>
-  <entry>
-    <title>zod-validation-patterns</title>
-    <link href="https://claudskills.com/skills/zod-validation-patterns/"/>
-    <id>https://claudskills.com/skills/zod-validation-patterns/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>aiskillstore</name></author>
-    <summary>This skill provides comprehensive patterns for using Zod validation library in TypeScript applications. It ensures input validation is done correctly, securely, and consistently across the codebase.</summary>
-  </entry>
-  <entry>
-    <title>Zod v4 Migration and New APIs</title>
-    <link href="https://claudskills.com/skills/zod-v4-migration/"/>
-    <id>https://claudskills.com/skills/zod-v4-migration/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>radesjardins</name></author>
-    <summary>This skill should be used when the user asks about "Zod 4", "Zod v4", "upgrading to Zod 4", "Zod 4 breaking changes", "Zod 4 migration", "z.merge deprecated", "Zod 4 error parameter", "z.config", "Zod registries", "z.meta", "ZodMini", "z.file", "z.templateLiteral", "z.toJSONSchema", "Zod 4 vs Zod 3", "Zod 4 optional default behavior", or "Zod 4 performance". Covers Zod v4 architecture, all breaking changes, new APIs, and migration strategies.</summary>
-  </entry>
-  <entry>
-    <title>Zod Security</title>
-    <link href="https://claudskills.com/skills/zod-security/"/>
-    <id>https://claudskills.com/skills/zod-security/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>radesjardins</name></author>
-    <summary>This skill should be used when the user asks about "Zod security", "Zod over-posting attack", "mass assignment Zod", "z.strictObject security", "z.custom security", "Zod coercion vulnerability", "Zod default PATCH bug", "Zod data loss", "Zod reportInput PII", "exposing ZodError to client", "Zod security review", "reviewing Zod validation code", or when performing a code review on TypeScript files that use Zod. Provides a comprehensive security model and review checklist for Zod usage.</summary>
-  </entry>
-  <entry>
-    <title>Zod Schema Design</title>
-    <link href="https://claudskills.com/skills/zod-schema-design/"/>
-    <id>https://claudskills.com/skills/zod-schema-design/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>radesjardins</name></author>
-    <summary>This skill should be used when the user asks about "composing Zod schemas", "extending a schema", "Zod pick omit partial", "discriminatedUnion vs union", "Zod transforms", "Zod refinements", "z.refine vs z.check", "Zod pipe", "input output types", "z.infer input output", "Zod branded types", "recursive schemas", "Zod lazy", or is designing data models with Zod schemas. Provides comprehensive patterns for schema composition, transformation, and refinement.</summary>
-  </entry>
-  <entry>
-    <title>Zod Framework Integrations</title>
-    <link href="https://claudskills.com/skills/zod-integrations/"/>
-    <id>https://claudskills.com/skills/zod-integrations/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>radesjardins</name></author>
-    <summary>This skill should be used when the user asks about "Zod with Fastify", "Zod type provider", "fastify-type-provider-zod", "Zod with Next.js", "Zod server actions", "Zod React Hook Form", "zodResolver", "Zod tRPC", "Zod monorepo", "shared Zod schemas", "Zod shared package", "Zod dual instance error", "ID already exists registry", "Zod frontend backend", "Zod AI SDK", or when integrating Zod with any web framework. Provides patterns for all major framework integrations and monorepo architecture.</summary>
-  </entry>
-  <entry>
-    <title>zod-express-validation</title>
-    <link href="https://claudskills.com/skills/zod-express-validation/"/>
-    <id>https://claudskills.com/skills/zod-express-validation/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>Methasit-Pun</name></author>
-    <summary>Runtime request validation with Zod for Express and Socket.IO. Generates TypeScript DTOs via z.infer. Blocks unvalidated data from reaching Use Cases.</summary>
-  </entry>
-  <entry>
-    <title>Zod Error Handling</title>
-    <link href="https://claudskills.com/skills/zod-error-handling/"/>
-    <id>https://claudskills.com/skills/zod-error-handling/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>radesjardins</name></author>
-    <summary>This skill should be used when the user asks about "Zod error handling", "parse vs safeParse", "ZodError", "z.treeifyError", "z.flattenError", "z.prettifyError", "formatting Zod errors", "Zod error messages", "custom Zod errors", "z.config error map", "Zod error precedence", "Zod validation errors for API response", or "how to display Zod errors to users". Provides comprehensive guidance on Zod's error system, formatting utilities, and customization.</summary>
-  </entry>
-  <entry>
-    <title>Zod Best Practices</title>
-    <link href="https://claudskills.com/skills/zod-best-practices/"/>
-    <id>https://claudskills.com/skills/zod-best-practices/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>radesjardins</name></author>
-    <summary>This skill should be used when the user asks about "how to use Zod", "where should I put Zod validation", "Zod best practices", "should I use Zod here", "Zod vs TypeScript types", "parse don't validate", "overvalidation", "Zod single source of truth", or when reviewing or writing TypeScript code that imports from "zod". Provides the core mental model and foundational rules for effective Zod usage.</summary>
-  </entry>
-  <entry>
-    <title>zod</title>
-    <link href="https://claudskills.com/skills/zod/"/>
-    <id>https://claudskills.com/skills/zod/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>VKirill</name></author>
-    <summary>Zod schema validation and type inference.</summary>
-  </entry>
-  <entry>
-    <title>zlibrary-to-notebooklm</title>
-    <link href="https://claudskills.com/skills/zlibrary-to-notebooklm/"/>
-    <id>https://claudskills.com/skills/zlibrary-to-notebooklm/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>aiskillstore</name></author>
-    <summary>自动从 Z-Library 下载书籍并上传到 Google NotebookLM。支持 PDF/EPUB 格式，自动转换，一键创建知识库。</summary>
-  </entry>
-  <entry>
-    <title>zip-folder</title>
-    <link href="https://claudskills.com/skills/zip-folder/"/>
-    <id>https://claudskills.com/skills/zip-folder/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>name: Süleyman Sardoğan</name></author>
-    <summary>Bir klasörü tarihe göre zip'leyerek ~/Downloads klasörüne yedekler.</summary>
-  </entry>
-  <entry>
-    <title>zip</title>
-    <link href="https://claudskills.com/skills/zip/"/>
-    <id>https://claudskills.com/skills/zip/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>BytesAgain</name></author>
-    <summary>Compress, extract, list, and encrypt ZIP archives in batch. Use when archiving files, extracting packages, listing contents, encrypting backups, or batching.</summary>
-  </entry>
-  <entry>
-    <title>zinc-unittest</title>
-    <link href="https://claudskills.com/skills/zinc-unittest/"/>
-    <id>https://claudskills.com/skills/zinc-unittest/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
+    <title>zustand-state-management</title>
+    <link href="https://claudskills.com/skills/zustand-state-management/"/>
+    <id>https://claudskills.com/skills/zustand-state-management/</id>
+    <updated>2026-06-01T00:00:00Z</updated>
     <author><name>ClaudSkills</name></author>
-    <summary>War3Lib 的 Zinc 单元测试流程规范（.j + .cfg + _Test.j + 可选 w3a/w3u/w3i）：使用 TaskCreateUT.lua 生成测试壳、维护 cfg 注入与 chain 依赖、使用 UnitTestFramwork.assert 断言与 Trace 日志输出。用于创建/重构 Jass 模块单测时。</summary>
-  </entry>
-  <entry>
-    <title>zhihu-search-api-skill</title>
-    <link href="https://claudskills.com/skills/zhihu-search-api-skill/"/>
-    <id>https://claudskills.com/skills/zhihu-search-api-skill/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>aiskillstore</name></author>
-    <summary>This skill helps users automatically extract structured article details and full content from Zhihu via the BrowserAct API. Agent should proactively apply this skill when users express needs like: searching for Zhihu articles on a specific topic, tracking industry trends on Zhihu, monitoring public relations or sentiment on Zhihu, collecting competitor updates, getting the latest reports on specific keywords, monitoring brand exposure in Zhihu media, researching market hot topics, summarizing da</summary>
-  </entry>
-  <entry>
-    <title>zhihu</title>
-    <link href="https://claudskills.com/skills/zhihu/"/>
-    <id>https://claudskills.com/skills/zhihu/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>sigcli</name></author>
-    <summary>Interact with Zhihu (zhihu.com) — browse hot questions, read answers, search content, view topics, check user profiles. Use this skill whenever the user mentions Zhihu, 知乎, zhihu.com, wants to browse Chinese Q&amp;A content, read Zhihu answers, search Zhihu questions, check Zhihu hot list, or look up Zhihu users/topics. Also trigger when the user pastes a Zhihu URL (e.g. zhihu.com/question/12345), mentions a Zhihu topic, or asks about Chinese knowledge sharing platforms.</summary>
-  </entry>
-  <entry>
-    <title>zhang-mingkai-criminal-law-academic-perspective</title>
-    <link href="https://claudskills.com/skills/zhang-mingkai-criminal-law-academic/"/>
-    <id>https://claudskills.com/skills/zhang-mingkai-criminal-law-academic/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>voidborne-d</name></author>
-    <summary>张明楷 (清华大学法学院文科资深教授) 视角. 国内刑法学术代表 + 教材标准 (《刑法学》第七版) + 结果无价值论代表. 调用此 skill 时, 用张明楷框架做刑法学术解释 / 构成要件实质解释 / 罪名认定决策.</summary>
-  </entry>
-  <entry>
-    <title>zhang-jianzhong-tongren-perspective</title>
-    <link href="https://claudskills.com/skills/zhang-jianzhong-tongren/"/>
-    <id>https://claudskills.com/skills/zhang-jianzhong-tongren/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>voidborne-d</name></author>
-    <summary>张建中 (首都医科大学附属北京同仁医院足踝外科矫形中心) 视角. 国内足踝外科教父级代表. 拇外翻 + 平足 + 踝关节置换 + 中文圈本土化派. 调用此 skill 时, 用张建中框架做拇外翻 / 国内患者 / 中文圈实操决策.</summary>
-  </entry>
-  <entry>
-    <title>morning-briefing</title>
-    <link href="https://claudskills.com/skills/zh-tw/"/>
-    <id>https://claudskills.com/skills/zh-tw/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>Kaminoikari</name></author>
-    <summary>一套模組化的晨間簡報 skill，每天早上透過 Telegram 發送每日摘要。 包含 Gmail 收件匣摘要與 Google Calendar 行程提醒兩個選用模組。 當用戶想設定每日晨間簡報、安裝本 skill、或啟用/停用個別模組時使用。 觸發關鍵字：「設定每日簡報」、「morning briefing」、「安裝晨間通知」、「啟用每日行程」、「啟用信件摘要」。 首次安裝時，引導用戶完成設定與模組選擇。</summary>
-  </entry>
-  <entry>
-    <title>product-playbook</title>
-    <link href="https://claudskills.com/skills/zh-cn/"/>
-    <id>https://claudskills.com/skills/zh-cn/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>Kaminoikari</name></author>
-    <summary>MUST use when user wants to plan, design, or strategize a product or feature — including "plan a feature", "add a new feature", "product planning", "I want to plan". This is the correct skill for product/feature PLANNING (not brainstorming for implementation). Integrates 22 PM frameworks (JTBD, PR-FAQ, North Star, etc.) for 0-to-1 through scale-up. ALSO trigger when: user wants to scope/define a feature, create Persona/JTBD/Journey Map, mentions "PMF"/"MVP"/"North Star"/"product strategy", reque</summary>
-  </entry>
-  <entry>
-    <title>seedance-prompt-zh</title>
-    <link href="https://claudskills.com/skills/zh/"/>
-    <id>https://claudskills.com/skills/zh/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>mightyhuman101</name></author>
-    <summary>为即梦 Seedance 2.0 多模态AI视频生成模型撰写高质量提示词。当用户需要使用文本、图片、视频、音频等多模态输入创作视频提示词时触发。涵盖@引用语法、运镜复刻、特效模仿、视频延长、视频编辑、音乐卡点、电商广告、短剧创作、科普教育等场景。</summary>
-  </entry>
-  <entry>
-    <title>zettelkasten</title>
-    <link href="https://claudskills.com/skills/zettelkasten/"/>
-    <id>https://claudskills.com/skills/zettelkasten/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>majiayu000</name></author>
-    <summary>Write Obsidian Zettelkasten notes. Create atomic notes, search existing notes and connect via [[wikilink]], write frontmatter metadata, visualize with mermaid diagrams. Save to Obsidian Vault 00.Inbox. **Proactively use this skill** when user mentions "옵시디언", "Obsidian", "제텔카스텐", "Zettelkasten", "노트로 정리", "노트에 정리" without explicit /zettelkasten command.</summary>
-  </entry>
-  <entry>
-    <title>zetic-mlange</title>
-    <link href="https://claudskills.com/skills/zeticskill/"/>
-    <id>https://claudskills.com/skills/zeticskill/</id>
-    <updated>2026-05-31T00:00:00Z</updated>
-    <author><name>Camillalalala</name></author>
-    <summary>Help users integrate the ZETIC Melange (MLange) on-device AI SDK into Android (Kotlin/Java) and iOS (Swift) mobile apps. Use this skill whenever the user mentions Zetic, MLange, Melange, ZeticMLangeModel, ZeticMLangeLLMModel, ZeticMLangeHFModel, on-device NPU inference for mobile, or deploying ML models to Android/iOS with NPU acceleration. Also trigger when users ask about running LLMs on-device with GGUF quantization, mobile NPU model deployment, or converting PyTorch/ONNX models for mobile in</summary>
+    <summary>Best practices for Zustand state management in React and Next.js applications with TypeScript.</summary>
   </entry>
 </feed>
