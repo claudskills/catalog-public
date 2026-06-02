@@ -4,13 +4,13 @@
   <link href="https://claudskills.com/"/>
   <link rel="self" href="https://github.com/claudskills/catalog-public/raw/main/feed.atom"/>
   <id>https://github.com/claudskills/catalog-public/feed.atom</id>
-  <updated>2026-06-01T08:21:32Z</updated>
+  <updated>2026-06-02T07:15:42Z</updated>
   <author><name>ClaudSkills</name></author>
   <entry>
     <title>zyte-api-automation</title>
     <link href="https://claudskills.com/skills/zyte-api-automation/"/>
     <id>https://claudskills.com/skills/zyte-api-automation/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>ClaudSkills</name></author>
     <summary>Automate Zyte API tasks via Rube MCP (Composio). Always search tools first for current schemas.</summary>
   </entry>
@@ -18,7 +18,7 @@
     <title>zylvie-automation</title>
     <link href="https://claudskills.com/skills/zylvie-automation/"/>
     <id>https://claudskills.com/skills/zylvie-automation/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>ClaudSkills</name></author>
     <summary>Automate Zylvie tasks via Rube MCP (Composio). Always search tools first for current schemas.</summary>
   </entry>
@@ -26,7 +26,7 @@
     <title>zylos-memory</title>
     <link href="https://claudskills.com/skills/zylos-memory/"/>
     <id>https://claudskills.com/skills/zylos-memory/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>zylos-ai</name></author>
     <summary>Core memory system. Maintains persistent memory across sessions via tiered markdown files following the Inside Out model. Handles Memory Sync (processing conversations into structured memory), session rotation, consolidation, and context-aware state saving. Must be launched via a runtime-appropriate background subagent mechanism — do not invoke with the Skill tool.</summary>
   </entry>
@@ -34,7 +34,7 @@
     <title>zx</title>
     <link href="https://claudskills.com/skills/zx/"/>
     <id>https://claudskills.com/skills/zx/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>LeoYeAI</name></author>
     <summary>Comprehensive guide for writing shell scripts with Google zx — a tool for writing better scripts using JavaScript/TypeScript. Use when writing, debugging, or refactoring zx scripts (.mjs, .js, .ts files using zx), executing shell commands from JavaScript, working with ProcessPromise/ProcessOutput APIs, piping streams, configuring zx options, or using zx CLI.  Do NOT use for general Node.js questions unrelated to shell scripting.</summary>
   </entry>
@@ -42,7 +42,7 @@
     <title>zwiezle</title>
     <link href="https://claudskills.com/skills/zwiezle/"/>
     <id>https://claudskills.com/skills/zwiezle/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>ClaudSkills</name></author>
     <summary>Przełącz agenta na zwięzły polski. Trzy poziomy intensywności oszczędzania tokenów.</summary>
   </entry>
@@ -50,7 +50,7 @@
     <title>zvg-verteilungsplan-155</title>
     <link href="https://claudskills.com/skills/zvg-verteilungsplan-155/"/>
     <id>https://claudskills.com/skills/zvg-verteilungsplan-155/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Verteilungsplan nach § 155 ZVG. Ordnet Nutzungen Ausgaben Kosten Gläubigerzahlungen Vorschuesse Rang und Auszahlung in der Zwangsverwaltung.</summary>
   </entry>
@@ -58,7 +58,7 @@
     <title>zvg-versteigerungsteilnahme</title>
     <link href="https://claudskills.com/skills/zvg-versteigerungsteilnahme/"/>
     <id>https://claudskills.com/skills/zvg-versteigerungsteilnahme/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Bereitet die Teilnahme am Zwangsversteigerungstermin vor: Ausweis, Vertretung, Sicherheitsleistung, geringstes Gebot, Bietstrategie, Zuschlagsgrenzen, Protokoll und Nachbereitung.</summary>
   </entry>
@@ -66,7 +66,7 @@
     <title>zvg-versicherungen-gefahren</title>
     <link href="https://claudskills.com/skills/zvg-versicherungen-gefahren/"/>
     <id>https://claudskills.com/skills/zvg-versicherungen-gefahren/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Versicherungen und Gefahren in der Zwangsverwaltung. Prüft Gebäudeversicherung Haftpflicht Beitragsrückstände Schadenmeldung Deckung und Sicherung.</summary>
   </entry>
@@ -74,7 +74,7 @@
     <title>zvg-verkauf-versteigerung-schnittstelle</title>
     <link href="https://claudskills.com/skills/zvg-verkauf-versteigerung-schnittstelle/"/>
     <id>https://claudskills.com/skills/zvg-verkauf-versteigerung-schnittstelle/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Schnittstelle zwischen Zwangsverwaltung und Zwangsversteigerung. Führt Objektinformationen Besichtigungen Werterhalt Mieterlage Bieterfragen und Aufhebung.</summary>
   </entry>
@@ -82,7 +82,7 @@
     <title>zvg-simulation-training</title>
     <link href="https://claudskills.com/skills/zvg-simulation-training/"/>
     <id>https://claudskills.com/skills/zvg-simulation-training/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Simulation und Training für Zwangsverwaltung. Führt acht Stunden ZVG Arbeit mit Mieterpost Objektgefahr Kontoabgleich Gericht Bericht und Verteilung.</summary>
   </entry>
@@ -90,7 +90,7 @@
     <title>zvg-rechnungslegung</title>
     <link href="https://claudskills.com/skills/zvg-rechnungslegung/"/>
     <id>https://claudskills.com/skills/zvg-rechnungslegung/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Rechnungslegung der Zwangsverwaltung. Erstellt Jahresrechnung Schlussrechnung Endabrechnung Einnahmenueberschussrechnung Soll Ist Belege und Salden.</summary>
   </entry>
@@ -98,7 +98,7 @@
     <title>zvg-raeumung-kuendigung</title>
     <link href="https://claudskills.com/skills/zvg-raeumung-kuendigung/"/>
     <id>https://claudskills.com/skills/zvg-raeumung-kuendigung/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Räumung Kündigung und Besitzkonflikte in der Zwangsverwaltung. Prüft Schuldnerwohnraeume Mieterrechte Kündigungsgruende Zutritt und Gerichtspfad.</summary>
   </entry>
@@ -106,7 +106,7 @@
     <title>zvg-quality-gate</title>
     <link href="https://claudskills.com/skills/zvg-quality-gate/"/>
     <id>https://claudskills.com/skills/zvg-quality-gate/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Quality Gate für Zwangsverwaltung. Prüft Beschluss Objekt Konto Rent Roll Berichte Rechnungslegung Verteilung Belege Rollen und Risiken vor Versand.</summary>
   </entry>
@@ -114,7 +114,7 @@
     <title>zvg-portal-recherche</title>
     <link href="https://claudskills.com/skills/zvg-portal-recherche/"/>
     <id>https://claudskills.com/skills/zvg-portal-recherche/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Recherchiert Zwangsversteigerungstermine im amtlichen ZVG-Portal, dokumentiert Suchparameter, Treffer, Gutachten-/Exposee-Downloads und Grenzen der Recherche.</summary>
   </entry>
@@ -122,7 +122,7 @@
     <title>zvg-oeffentliche-lasten</title>
     <link href="https://claudskills.com/skills/zvg-oeffentliche-lasten/"/>
     <id>https://claudskills.com/skills/zvg-oeffentliche-lasten/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Öffentliche Lasten und grundstuecksbezogene Abgaben in der Zwangsverwaltung. Erfasst Grundsteuer Gebuehren Beitraege Rang Fälligkeit und Zahlung.</summary>
   </entry>
@@ -130,7 +130,7 @@
     <title>zvg-mieteinzug-rueckstaende</title>
     <link href="https://claudskills.com/skills/zvg-mieteinzug-rueckstaende/"/>
     <id>https://claudskills.com/skills/zvg-mieteinzug-rueckstaende/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Mieteinzug Rückstände und Zahlungsabgleich in der Zwangsverwaltung. Führt Soll Ist Mahnung Ratenzahlung Klage Zahlungseingang und Kontoabgleich.</summary>
   </entry>
@@ -138,7 +138,7 @@
     <title>zvg-miet-und-pachtverwaltung</title>
     <link href="https://claudskills.com/skills/zvg-miet-und-pachtverwaltung/"/>
     <id>https://claudskills.com/skills/zvg-miet-und-pachtverwaltung/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Miet und Pachtverwaltung in der Zwangsverwaltung. Prüft Mietvertraege Pachtvertraege Zahlstellen Vorausverfuegungen Kautionen Nebenkosten und Nutzung.</summary>
   </entry>
@@ -146,7 +146,7 @@
     <title>zvg-konten-kassenfuehrung</title>
     <link href="https://claudskills.com/skills/zvg-konten-kassenfuehrung/"/>
     <id>https://claudskills.com/skills/zvg-konten-kassenfuehrung/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Konten Kassenfuehrung und Buchfuehrung der Zwangsverwaltung. Führt Treuhandkonto Soll Ist Einnahmen Ausgaben Belege Vorschuss und Auskunft.</summary>
   </entry>
@@ -154,7 +154,7 @@
     <title>zvg-kommandocenter</title>
     <link href="https://claudskills.com/skills/zvg-kommandocenter/"/>
     <id>https://claudskills.com/skills/zvg-kommandocenter/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>ZVG Zwangsverwaltungs-Kommandocenter. Triage Bestellung Beschlagnahme Besitz Mieter Konto Bericht Rechnungslegung Verteilung und Risiken freistehend.</summary>
   </entry>
@@ -162,7 +162,7 @@
     <title>zvg-instandhaltung-sicherung</title>
     <link href="https://claudskills.com/skills/zvg-instandhaltung-sicherung/"/>
     <id>https://claudskills.com/skills/zvg-instandhaltung-sicherung/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Instandhaltung Sicherung und Gefahrenabwehr in der Zwangsverwaltung. Führt Verkehrssicherung Notmaßnahmen Reparaturen Zustimmung Budget und Dokumentation.</summary>
   </entry>
@@ -170,7 +170,7 @@
     <title>zvg-insolvenz-schnittstelle</title>
     <link href="https://claudskills.com/skills/zvg-insolvenz-schnittstelle/"/>
     <id>https://claudskills.com/skills/zvg-insolvenz-schnittstelle/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Schnittstelle Zwangsverwaltung und Insolvenz. Prüft Insolvenz des Schuldners Absonderung Verwalterkommunikation § 165 InsO Forderungen und Verteilung.</summary>
   </entry>
@@ -178,7 +178,7 @@
     <title>zvg-glaeubiger-schuldner-kommunikation</title>
     <link href="https://claudskills.com/skills/zvg-glaeubiger-schuldner-kommunikation/"/>
     <id>https://claudskills.com/skills/zvg-glaeubiger-schuldner-kommunikation/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Kommunikation in der Zwangsverwaltung. Erstellt Schreiben an Schuldner Gläubiger Mieter Paechter Gericht Versicherer Kommune und Dienstleister.</summary>
   </entry>
@@ -186,7 +186,7 @@
     <title>zvg-bieterangebot-bewertung</title>
     <link href="https://claudskills.com/skills/zvg-bieterangebot-bewertung/"/>
     <id>https://claudskills.com/skills/zvg-bieterangebot-bewertung/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Bewertet Zwangsversteigerungsobjekte und Bieterangebote aus Investorensicht: Verkehrswert, geringstes Gebot, Sicherheitsleistung, bestehenbleibende Rechte, Mietlage, Sanierungsrisiko und Bietlimit.</summary>
   </entry>
@@ -194,7 +194,7 @@
     <title>zvg-betriebskosten-hausgeld</title>
     <link href="https://claudskills.com/skills/zvg-betriebskosten-hausgeld/"/>
     <id>https://claudskills.com/skills/zvg-betriebskosten-hausgeld/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Betriebskosten Hausgeld und laufende Objektkosten. Prüft Nebenkosten Dienstleister WEG Hausgeld Versorger Wirtschaftlichkeit Abrechnung und Zahlungsplan.</summary>
   </entry>
@@ -202,7 +202,7 @@
     <title>zvg-bestellung-beschlagnahme</title>
     <link href="https://claudskills.com/skills/zvg-bestellung-beschlagnahme/"/>
     <id>https://claudskills.com/skills/zvg-bestellung-beschlagnahme/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Bestellung Beschlagnahme und Ausweis in der Zwangsverwaltung. Prüft Anordnungsbeschluss Bestallung Objekt Schuldner Gläubiger Rang Umfang und Weisungen.</summary>
   </entry>
@@ -210,7 +210,7 @@
     <title>zvg-besitzuebernahme</title>
     <link href="https://claudskills.com/skills/zvg-besitzuebernahme/"/>
     <id>https://claudskills.com/skills/zvg-besitzuebernahme/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Besitzerlangung ueber das Zwangsverwaltungsobjekt. Führt Vor-Ort-Termin Bericht Objektbeschreibung Nutzungen Rechte Mobilien Forderungen Lasten und Ausgaben.</summary>
   </entry>
@@ -218,7 +218,7 @@
     <title>zvg-berichtswesen-gericht</title>
     <link href="https://claudskills.com/skills/zvg-berichtswesen-gericht/"/>
     <id>https://claudskills.com/skills/zvg-berichtswesen-gericht/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Berichtswesen an das Vollstreckungsgericht in der Zwangsverwaltung. Erstellt Besitzerlangungsbericht Sachstandsbericht Monatsbericht und Entscheidungsvorlage.</summary>
   </entry>
@@ -226,7 +226,7 @@
     <title>zvg-aktenanlage-objektcockpit</title>
     <link href="https://claudskills.com/skills/zvg-aktenanlage-objektcockpit/"/>
     <id>https://claudskills.com/skills/zvg-aktenanlage-objektcockpit/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Aktenanlage und Objektcockpit für Zwangsverwaltung. Erstellt Objektkarte Beteiligtenregister Mieterliste Lasten Konto Fristen Berichte und Wiedervorlagen.</summary>
   </entry>
@@ -234,7 +234,7 @@
     <title>zv-zvg-antrag-glaeubiger</title>
     <link href="https://claudskills.com/skills/zv-zvg-antrag-glaeubiger/"/>
     <id>https://claudskills.com/skills/zv-zvg-antrag-glaeubiger/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Antrag auf Zwangsversteigerung oder Zwangsverwaltung aus Gläubigersicht nach ZVG. Bereitet Anordnung §§ 15 ff. ZVG, Beitritt § 27 ZVG, geringstes Gebot, Bargebot und Verteilungstermin vor. Setzt eingetragenes Recht (Hypothek, Grundschuld) oder persönlichen Titel mit Eintragung Zwangshypothek § 866 ZPO voraus. Lädt bei Immobiliarvollstreckung.</summary>
   </entry>
@@ -242,7 +242,7 @@
     <title>zv-vollstreckungsschutz-haertefall-765a</title>
     <link href="https://claudskills.com/skills/zv-vollstreckungsschutz-haertefall-765a/"/>
     <id>https://claudskills.com/skills/zv-vollstreckungsschutz-haertefall-765a/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Vollstreckungsschutz nach § 765a ZPO bei sittenwidriger Haerte. Antrag des Schuldners auf einstweilige Einstellung oder Beschraenkung der Vollstreckung. Anwendungsfaelle Krankheit Suizidgefahr Geburt Obdachlosigkeit Tod naher Angehoeriger. Abgrenzung zu § 769 ZPO (einstweilige Einstellung bei Abwehrklage) und § 712 ZPO (vorlaeufige Vollstreckung). Beweislast Schuldner und Glaubhaftmachung. Schreibvorlage Antrag Glaubhaftmachung Eidesstattliche Versicherung.</summary>
   </entry>
@@ -250,7 +250,7 @@
     <title>zv-vollstreckungsbescheid-folge</title>
     <link href="https://claudskills.com/skills/zv-vollstreckungsbescheid-folge/"/>
     <id>https://claudskills.com/skills/zv-vollstreckungsbescheid-folge/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Steuert das Verfahren nach Erlass des Mahnbescheids: Beantragung des Vollstreckungsbescheids nach § 699 ZPO über das Online-Mahnportal, Reaktion auf Einspruch nach § 700 ZPO, Übergang ins streitige Verfahren. Erläutert die Wirkung des VB als Vollstreckungstitel mit Klausel kraft Gesetzes § 796 Abs. 1 ZPO und die Vollstreckung aus dem VB. Lädt nach Mahnbescheid oder vor VB-Antrag.</summary>
   </entry>
@@ -258,7 +258,7 @@
     <title>zv-vermoegensauskunft-gv</title>
     <link href="https://claudskills.com/skills/zv-vermoegensauskunft-gv/"/>
     <id>https://claudskills.com/skills/zv-vermoegensauskunft-gv/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Auftrag zur Abnahme der Vermögensauskunft (§ 802c ZPO) durch den Gerichtsvollzieher und Auswertung des Vermögensverzeichnisses. Beachtet Sperrfrist § 802d ZPO (zwei Jahre), Eintragung in das Schuldnerverzeichnis § 882b ZPO, Erzwingungshaft § 802g ZPO. Lädt, wenn keine konkreten Vermögenswerte des Schuldners bekannt sind.</summary>
   </entry>
@@ -266,7 +266,7 @@
     <title>zv-titel-klausel-zustellung</title>
     <link href="https://claudskills.com/skills/zv-titel-klausel-zustellung/"/>
     <id>https://claudskills.com/skills/zv-titel-klausel-zustellung/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Prüft die drei Säulen der Zwangsvollstreckung nach § 704 sowie §§ 724 und 750 ZPO: vollstreckbarer Titel, Vollstreckungsklausel und Zustellung an den Schuldner. Klärt Klauselbeschaffung beim Urkundsbeamten/Notar/Insolvenzgericht, Übertragung der Klausel auf Rechtsnachfolger nach §§ 727 ff. ZPO, qualifizierte Klausel bei bedingten Titeln und Wartefrist § 750 Abs. 1 ZPO. Lädt, wenn Unsicherheit besteht, ob aus einem Titel überhaupt vollstreckt werden darf.</summary>
   </entry>
@@ -274,7 +274,7 @@
     <title>zv-tabellenauszug-201-inso</title>
     <link href="https://claudskills.com/skills/zv-tabellenauszug-201-inso/"/>
     <id>https://claudskills.com/skills/zv-tabellenauszug-201-inso/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Vollstreckung aus dem Tabellenauszug nach § 201 Abs. 2 InsO nach Aufhebung oder Beendigung des Insolvenzverfahrens. Klärt Voraussetzungen (festgestellt, nicht vom Schuldner bestritten, kein Restschuldbefreiungs-Versagungsgrund), Klausel- und Zustellungsformalia, 30-Jahres-Verjährung § 197 BGB und Schranken bei Restschuldbefreiung § 301 InsO. Lädt, sobald ein Tabellenauszug als Titel vorliegt.</summary>
   </entry>
@@ -282,7 +282,7 @@
     <title>zv-raeumung-885</title>
     <link href="https://claudskills.com/skills/zv-raeumung-885/"/>
     <id>https://claudskills.com/skills/zv-raeumung-885/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Räumungsvollstreckung nach § 885 ZPO und beschränkter Räumungsauftrag mit Vermieterpfandrecht nach § 885a ZPO (Berliner Modell). Klärt Räumungstitel, Klausel, Zustellung, Mitbewohner-Problematik (Kinder, Untermieter, Lebensgefährten), Drittwiderspruch § 771 ZPO und Vollstreckungsschutz § 765a ZPO. Lädt bei Räumung von Wohn- oder Gewerberäumen.</summary>
   </entry>
@@ -290,7 +290,7 @@
     <title>zv-pfueb-mieter-finanzamt</title>
     <link href="https://claudskills.com/skills/zv-pfueb-mieter-finanzamt/"/>
     <id>https://claudskills.com/skills/zv-pfueb-mieter-finanzamt/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>PfÜB gegen sonstige Drittschuldner: Mieter (Mietzinsforderung), Finanzamt (Steuererstattung, Kindergeld nur eingeschränkt), Krankenkassen (Krankengeld), Versicherungen (Rückkaufswert), Geschäftspartner (offene Rechnungen). Beachtet § 851 ZPO Unübertragbarkeit, § 850b ZPO bedingt pfändbare Bezüge, § 46 AO Steueranspruchsabtretung. Lädt, wenn weder Bank noch Arbeitgeber Drittschuldner ist.</summary>
   </entry>
@@ -298,7 +298,7 @@
     <title>zv-pfueb-bank</title>
     <link href="https://claudskills.com/skills/zv-pfueb-bank/"/>
     <id>https://claudskills.com/skills/zv-pfueb-bank/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Pfändungs- und Überweisungsbeschluss (PfÜB) gegen Bankkonten des Schuldners nach §§ 829 und 835 ZPO. Erzeugt Antrag mit Drittschuldner-Bank, beachtet P-Konto-Schutz § 850k ZPO, Sockelbetrag, kindergeldspezifische Erhöhungen und das ZVollstrDigitG: ab 1.10.2026 XML-Antrag nach § 829 Abs. 5 ZPO n.F., ab 1.10.2027 zwingende elektronische Zustellung an Banken über sicheren Übermittlungsweg (§ 173 Abs. 2 Nr. 1 ZPO n.F.). Lädt bei jeder Kontopfändung.</summary>
   </entry>
@@ -306,7 +306,7 @@
     <title>zv-pfueb-arbeitsentgelt</title>
     <link href="https://claudskills.com/skills/zv-pfueb-arbeitsentgelt/"/>
     <id>https://claudskills.com/skills/zv-pfueb-arbeitsentgelt/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Lohn- und Gehaltspfändung nach §§ 829 und 835 sowie §§ 850 ff. ZPO. Erzeugt PfÜB gegen den Arbeitgeber als Drittschuldner, berechnet pfändbaren Betrag nach Pfändungstabelle 1.7.2025 bis 30.6.2026, berücksichtigt unterhaltsberechtigte Personen, Sonderzuwendungen § 850a ZPO und Anschlusspfändungen § 850e ZPO. Lädt bei Lohn-/Renten-/Sozialleistungs- oder Selbstständigen-Vergütungs-Pfändungen.</summary>
   </entry>
@@ -314,7 +314,7 @@
     <title>zv-pfaendungstabelle-2025</title>
     <link href="https://claudskills.com/skills/zv-pfaendungstabelle-2025/"/>
     <id>https://claudskills.com/skills/zv-pfaendungstabelle-2025/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Berechnet pfändbare Beträge nach Pfändungsfreigrenzenbekanntmachung 1.7.2025 (gültig bis 30.6.2026; danach jährliche Anpassung nach § 850c Abs. 4 ZPO). Liefert Freibetrag nach § 850c ZPO inklusive Unterhaltsstaffel, Pfändungsstufen, P-Konto-Sockel § 850k ZPO und privilegierte Berechnung § 850d ZPO. Ruft das Python-Werkzeug werkzeuge/pfaendungsrechner.py auf. Lädt bei jeder Berechnung pfändbarer Bezüge.</summary>
   </entry>
@@ -322,7 +322,7 @@
     <title>zv-notarielle-urkunde-grundschuld</title>
     <link href="https://claudskills.com/skills/zv-notarielle-urkunde-grundschuld/"/>
     <id>https://claudskills.com/skills/zv-notarielle-urkunde-grundschuld/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Zwangsvollstreckung aus notarieller Urkunde mit Unterwerfungsklausel (§ 794 Abs. 1 Nr. 5 ZPO), insbesondere Grundschuld mit dinglicher und persönlicher Unterwerfung. Klärt Klauselumschreibung § 727 ZPO bei Forderungsabtretung, Sicherungsabrede, Kündigung § 1193 BGB, Sechs-Monats-Frist, Vollstreckung in das Grundstück (ZVG) und in das persönliche Vermögen (PfÜB).</summary>
   </entry>
@@ -330,7 +330,7 @@
     <title>zv-mobiliar-gv-auftrag</title>
     <link href="https://claudskills.com/skills/zv-mobiliar-gv-auftrag/"/>
     <id>https://claudskills.com/skills/zv-mobiliar-gv-auftrag/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Sachpfändung durch den Gerichtsvollzieher nach §§ 808 ff. ZPO. Bereitet Auftrag, Modulwahl § 802a ZPO, Anlaufstellen (Wohnung, Geschäftsräume), Unpfändbarkeitskatalog § 811 ZPO, Austauschpfändung § 811a ZPO und Versteigerungsalternativen (§ 825 ZPO Internet-Versteigerung) vor. Lädt, wenn bewegliche körperliche Sachen vor Ort gepfändet werden sollen.</summary>
   </entry>
@@ -338,7 +338,7 @@
     <title>zv-mahnbescheid-online</title>
     <link href="https://claudskills.com/skills/zv-mahnbescheid-online/"/>
     <id>https://claudskills.com/skills/zv-mahnbescheid-online/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Begleitet den Antrag auf Mahnbescheid nach §§ 688 ff. ZPO über das Online-Mahnportal der Länder www.online-mahnantrag.de Schritt für Schritt: Schlüssigkeitsprüfung, Antragstyp, Gerichtsstandwahl, Hauptforderung, Nebenforderungen, Zinsen, Kostenfestsetzung, Übermittlung per beA, EGVP oder Druckanzeige. Klärt Anhängigkeit und Verjährungshemmung § 204 Abs. 1 Nr. 3 BGB. Lädt, wenn Mandat einen Mahnantrag stellen oder verteidigen will.</summary>
   </entry>
@@ -346,7 +346,7 @@
     <title>zv-kontensuche-drittschuldner</title>
     <link href="https://claudskills.com/skills/zv-kontensuche-drittschuldner/"/>
     <id>https://claudskills.com/skills/zv-kontensuche-drittschuldner/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Konten und Drittschuldner des Schuldners finden, wenn Bank, Arbeitgeber oder Forderungsschuldner unbekannt sind. Nutzt § 802l ZPO Drittauskünfte (Rentenversicherung Bund, Bundeszentralamt für Steuern Kontenabruf, Kraftfahrt-Bundesamt) sowie Schuldnerverzeichnis § 882b ZPO. Lädt vor jeder PfÜB-Pfändung ohne bekannten Drittschuldner.</summary>
   </entry>
@@ -354,7 +354,7 @@
     <title>zv-kommandocenter</title>
     <link href="https://claudskills.com/skills/zv-kommandocenter/"/>
     <id>https://claudskills.com/skills/zv-kommandocenter/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Startpunkt der Zwangsvollstreckung. Fragt nach Titelart und Vollstreckungsziel und entscheidet, welcher Folge-Skill geladen wird: Mahnbescheid, PfÜB, notarielle Urkunde, Tabellenauszug, ZVG, Mobiliar, Räumung, Vermögensauskunft, Kontensuche oder Schuldnerabwehr. Prüft die drei Säulen Titel, Klausel, Zustellung vor jedem weiteren Schritt. Lädt, wenn ein Mandat die Einleitung oder Steuerung einer Vollstreckung betrifft.</summary>
   </entry>
@@ -362,7 +362,7 @@
     <title>zv-eu-kontenpfaendung-655-2014</title>
     <link href="https://claudskills.com/skills/zv-eu-kontenpfaendung-655-2014/"/>
     <id>https://claudskills.com/skills/zv-eu-kontenpfaendung-655-2014/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Europaeische Kontenpfaendung nach Verordnung (EU) Nr. 655/2014 (EuKtPVO) — vorlaeufige grenzueberschreitende Sicherung von Bankkonten in der EU. § 946 ff. ZPO i.V.m. EuKtPVO. Antrag beim deutschen Gericht der Hauptsache; Zustaendigkeit § 946 ZPO. Glaubhaftmachung Anspruch und Sicherungsbeduerfnis. Sicherheitsleistung. Drittwirkung in allen Mitgliedstaaten (außer Daenemark). Folge-PfUeB national nach § 829 ZPO ergaenzend moeglich. Lädt bei Schuldnerkonto im EU-Ausland.</summary>
   </entry>
@@ -370,7 +370,7 @@
     <title>zv-elektronische-zustellung-2027</title>
     <link href="https://claudskills.com/skills/zv-elektronische-zustellung-2027/"/>
     <id>https://claudskills.com/skills/zv-elektronische-zustellung-2027/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Operative Umsetzung des Gesetzes zur weiteren Digitalisierung der Zwangsvollstreckung (ZVollstrDigitG, BT-Drs. 21/4815): XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026, Pflicht der Kreditinstitute zur Eröffnung eines sicheren Übermittlungsweges ab 1.10.2027 (§ 173 Abs. 2 Nr. 1 ZPO n.F.), eBO, § 130a Abs. 4 ZPO, neue ZVFV-Formulare, § 840 ZPO Drittschuldnererklärung. Aktualisiert Datum, falls Verkündung im BGBl nachgereicht. Lädt zu jeder Pfändung, deren Zustellung elektronisch erfolgt oder erfolg</summary>
   </entry>
@@ -378,7 +378,7 @@
     <title>zv-abwehr-schuldner</title>
     <link href="https://claudskills.com/skills/zv-abwehr-schuldner/"/>
     <id>https://claudskills.com/skills/zv-abwehr-schuldner/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Schuldnerseite: Abwehr unzulässiger oder unbilliger Zwangsvollstreckung. Klärt Erinnerung § 766 ZPO (formale Mängel), Vollstreckungsabwehrklage § 767 ZPO (materielle Einwendungen), Klauselgegenklage § 768 ZPO, Drittwiderspruchsklage § 771 ZPO, Vollstreckungsschutz § 765a ZPO, P-Konto-Freigabe § 850k ZPO, einstweilige Einstellung § 769 ZPO. Lädt aus Schuldnerperspektive.</summary>
   </entry>
@@ -386,7 +386,7 @@
     <title>zutilo-guide</title>
     <link href="https://claudskills.com/skills/zutilo-guide/"/>
     <id>https://claudskills.com/skills/zutilo-guide/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>brycewang-stanford</name></author>
     <summary>Zotero utility plugin for keyboard shortcuts and batch editing</summary>
   </entry>
@@ -394,7 +394,7 @@
     <title>zustand-store-ts</title>
     <link href="https://claudskills.com/skills/zustand-store-ts/"/>
     <id>https://claudskills.com/skills/zustand-store-ts/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>ClaudSkills</name></author>
     <summary>Create Zustand stores following established patterns with proper TypeScript types and middleware.</summary>
   </entry>
@@ -402,7 +402,7 @@
     <title>zustand-state-management</title>
     <link href="https://claudskills.com/skills/zustand-state-management/"/>
     <id>https://claudskills.com/skills/zustand-state-management/</id>
-    <updated>2026-06-01T00:00:00Z</updated>
+    <updated>2026-06-02T00:00:00Z</updated>
     <author><name>ClaudSkills</name></author>
     <summary>Best practices for Zustand state management in React and Next.js applications with TypeScript.</summary>
   </entry>
