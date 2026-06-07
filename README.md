@@ -6,7 +6,7 @@
 
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Daily refresh](https://img.shields.io/badge/refresh-daily%2003%3A00%20UTC-green)](https://github.com/claudskills/catalog-public/actions)
-[![Total skills](https://img.shields.io/badge/skills-88,259-brightgreen)](https://claudskills.com)
+[![Total skills](https://img.shields.io/badge/skills-91,840-brightgreen)](https://claudskills.com)
 
 ## What's here
 
@@ -37,58 +37,58 @@ python -c "import pandas as pd; df = pd.read_parquet('https://github.com/claudsk
 
 | Field | Value |
 |---|---|
-| Total skills | **88,259** |
+| Total skills | **91,840** |
 | Featured | 20 |
-| Daily-eligible (quality ≥ 80) | 7,970 |
-| Unique authors with ≥1 admitted skill | 6,278 |
+| Daily-eligible (quality ≥ 80) | 9,394 |
+| Unique authors with ≥1 admitted skill | 6,577 |
 | Categories | 10 |
 | Rows dropped this run (no attribution) | 0 |
-| Last refresh | **2026-06-06 06:20 UTC** |
+| Last refresh | **2026-06-07 06:56 UTC** |
 
 ### Top categories
 
 | Category | Skills |
 |---|---:|
-| general | 49,771 |
-| engineering | 15,461 |
-| security | 4,540 |
-| science | 4,008 |
-| content | 3,938 |
-| tools | 3,717 |
-| product | 3,080 |
-| growth | 2,084 |
-| sales | 1,408 |
-| ads | 252 |
+| general | 52,311 |
+| engineering | 15,689 |
+| security | 4,704 |
+| science | 4,132 |
+| content | 4,113 |
+| tools | 3,770 |
+| product | 3,209 |
+| growth | 2,166 |
+| sales | 1,475 |
+| ads | 271 |
 
 ### Top licenses
 
 | License | Skills |
 |---|---:|
-| `(unspecified)` | 61,581 |
-| `MIT` | 20,813 |
-| `Apache-2.0` | 4,449 |
-| `AGPL-3.0` | 321 |
+| `(unspecified)` | 61,906 |
+| `MIT` | 21,186 |
+| `Apache-2.0` | 7,324 |
+| `AGPL-3.0` | 323 |
 | `NOASSERTION` | 122 |
 | `CC-BY-4.0` | 115 |
 | `Complete terms in LICENSE.txt` | 91 |
+| `GPL-3.0` | 85 |
 | `MIT + Commons Clause` | 85 |
-| `GPL-3.0` | 81 |
-| `BSD-3-Clause` | 67 |
+| `BSD-3-Clause` | 68 |
 
 ### Top authors
 
 | Author | Skills |
 |---|---:|
-| [Klotzkette](https://claudskills.com/author/) | 7,621 |
-| [Jeremy Longshore <jeremy@intentsolutions.io>](https://claudskills.com/author/) | 3,328 |
+| [Klotzkette](https://claudskills.com/author/) | 7,673 |
+| [Jeremy Longshore <jeremy@intentsolutions.io>](https://claudskills.com/author/) | 3,329 |
 | [bg-szy](https://claudskills.com/author/) | 2,217 |
-| [phamlongh230-lgtm](https://claudskills.com/author/) | 1,797 |
-| [majiayu000](https://claudskills.com/author/) | 875 |
-| [diegosouzapw](https://claudskills.com/author/) | 735 |
+| [CaseMark](https://claudskills.com/author/) | 2,071 |
+| [phamlongh230-lgtm](https://claudskills.com/author/) | 1,844 |
+| [majiayu000](https://claudskills.com/author/) | 894 |
+| [diegosouzapw](https://claudskills.com/author/) | 745 |
 | [mahipal](https://claudskills.com/author/) | 715 |
 | [Pranav Nagrecha](https://claudskills.com/author/) | 664 |
 | [brycewang-stanford](https://claudskills.com/author/) | 629 |
-| [aiskillstore](https://claudskills.com/author/) | 362 |
 
 ## Schema
 
@@ -127,17 +127,17 @@ Current upstream-attribution coverage (rows with at least one of
 
 | Field | Rows | % |
 |---|---:|---:|
-| `author` | 55,387 | 62.8% |
-| `source_url` | 54,432 | 61.7% |
-| `author_url` | 49,468 | 56.0% |
-| `license` | 26,678 | 30.2% |
+| `author` | 59,106 | 64.4% |
+| `source_url` | 58,151 | 63.3% |
+| `author_url` | 53,187 | 57.9% |
+| `license` | 29,934 | 32.6% |
 
 Upstream coverage grows organically each miner cycle as the
 `SKILL.md`-frontmatter backfill picks up newly-disclosed metadata.
 
 If you're an author and want your credit corrected, added, or
-withdrawn, open an issue on this repo or email
-`acreatorstore@translatea.com` — we honour every opt-out within one
+withdrawn, open an issue on this repo, email
+`acreatorstore@translatea.com`, or DM [@acreatorstore on Telegram](https://t.me/acreatorstore) — we honour every opt-out within one
 miner cycle (~12 h).
 
 ## License
@@ -182,8 +182,8 @@ If the refresh has been stale for >36 hours, check
 ClaudSkills is an **open** registry. Skills are mined from public
 sources only (GitHub, GitLab, awesome-lists, Reddit, Bluesky, etc.) and
 all attribution is preserved. If you are an author and want your skill
-*removed* (not just credit-corrected), open an issue on this repo or
-email `acreatorstore@translatea.com` — we honour every opt-out request
+*removed* (not just credit-corrected), open an issue on this repo,
+email `acreatorstore@translatea.com`, or DM [@acreatorstore on Telegram](https://t.me/acreatorstore) — we honour every opt-out request
 within one miner cycle.
 
 ---
