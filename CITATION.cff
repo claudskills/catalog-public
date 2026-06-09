@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 title: "ClaudSkills Open Catalog of Claude Code Skills"
 abstract: >
-  Machine-readable catalog of 91,840+ Claude Code / Claude
+  Machine-readable catalog of 93,815+ Claude Code / Claude
   Skills SKILL.md files, mined daily from public sources including
   GitHub, GitLab, Codeberg, HuggingFace, awesome-lists, and social
   platforms. Mirrors the live catalog at claudskills.com. Each row
@@ -16,8 +16,8 @@ authors:
 license: CC-BY-4.0
 url: "https://github.com/claudskills/catalog-public"
 repository: "https://github.com/claudskills/catalog-public"
-date-released: 2026-06-08
-version: "2026.06.08"
+date-released: 2026-06-09
+version: "2026.06.09"
 keywords:
   - claude
   - claude-code
