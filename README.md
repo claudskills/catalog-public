@@ -6,7 +6,7 @@
 
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Daily refresh](https://img.shields.io/badge/refresh-daily%2003%3A00%20UTC-green)](https://github.com/claudskills/catalog-public/actions)
-[![Total skills](https://img.shields.io/badge/skills-120,902-brightgreen)](https://claudskills.com)
+[![Total skills](https://img.shields.io/badge/skills-121,707-brightgreen)](https://claudskills.com)
 
 ## What's here
 
@@ -37,38 +37,38 @@ python -c "import pandas as pd; df = pd.read_parquet('https://github.com/claudsk
 
 | Field | Value |
 |---|---|
-| Total skills | **120,902** |
+| Total skills | **121,707** |
 | Featured | 20 |
-| Daily-eligible (quality ≥ 80) | 11,562 |
-| Unique authors with ≥1 admitted skill | 14,008 |
+| Daily-eligible (quality ≥ 80) | 11,596 |
+| Unique authors with ≥1 admitted skill | 14,111 |
 | Categories | 10 |
 | Rows dropped this run (no attribution) | 0 |
-| Last refresh | **2026-06-21 07:23 UTC** |
+| Last refresh | **2026-06-22 08:47 UTC** |
 
 ### Top categories
 
 | Category | Skills |
 |---|---:|
-| general | 68,104 |
-| engineering | 20,206 |
-| security | 6,430 |
-| content | 5,920 |
-| science | 5,870 |
-| tools | 4,798 |
-| product | 4,442 |
-| growth | 2,925 |
-| sales | 1,865 |
-| ads | 342 |
+| general | 68,521 |
+| engineering | 20,352 |
+| security | 6,494 |
+| content | 5,952 |
+| science | 5,914 |
+| tools | 4,833 |
+| product | 4,481 |
+| growth | 2,948 |
+| sales | 1,869 |
+| ads | 343 |
 
 ### Top licenses
 
 | License | Skills |
 |---|---:|
-| `(unspecified)` | 72,997 |
-| `MIT` | 35,154 |
-| `Apache-2.0` | 10,408 |
-| `AGPL-3.0` | 617 |
-| `GPL-3.0` | 321 |
+| `(unspecified)` | 73,269 |
+| `MIT` | 35,450 |
+| `Apache-2.0` | 10,602 |
+| `AGPL-3.0` | 622 |
+| `GPL-3.0` | 327 |
 | `CC-BY-4.0` | 153 |
 | `BSD-3-Clause` | 142 |
 | `NOASSERTION` | 122 |
@@ -79,9 +79,9 @@ python -c "import pandas as pd; df = pd.read_parquet('https://github.com/claudsk
 
 | Author | Skills |
 |---|---:|
-| [Klotzkette](https://claudskills.com/author/) | 8,074 |
+| [Klotzkette](https://claudskills.com/author/) | 8,088 |
 | [Jeremy Longshore <jeremy@intentsolutions.io>](https://claudskills.com/author/) | 3,387 |
-| [brycewang-stanford](https://claudskills.com/author/) | 2,502 |
+| [brycewang-stanford](https://claudskills.com/author/) | 2,503 |
 | [majiayu000](https://claudskills.com/author/) | 2,326 |
 | [bg-szy](https://claudskills.com/author/) | 2,217 |
 | [CaseMark](https://claudskills.com/author/) | 2,071 |
@@ -127,10 +127,10 @@ Current upstream-attribution coverage (rows with at least one of
 
 | Field | Rows | % |
 |---|---:|---:|
-| `author` | 89,168 | 73.8% |
-| `source_url` | 88,213 | 73.0% |
-| `author_url` | 83,247 | 68.9% |
-| `license` | 47,905 | 39.6% |
+| `author` | 90,054 | 74.0% |
+| `source_url` | 89,099 | 73.2% |
+| `author_url` | 84,133 | 69.1% |
+| `license` | 48,438 | 39.8% |
 
 Upstream coverage grows organically each miner cycle as the
 `SKILL.md`-frontmatter backfill picks up newly-disclosed metadata.
