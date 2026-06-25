@@ -6,7 +6,7 @@
 
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Daily refresh](https://img.shields.io/badge/refresh-daily%2003%3A00%20UTC-green)](https://github.com/claudskills/catalog-public/actions)
-[![Total skills](https://img.shields.io/badge/skills-121,707-brightgreen)](https://claudskills.com)
+[![Total skills](https://img.shields.io/badge/skills-138,209-brightgreen)](https://claudskills.com)
 
 ## What's here
 
@@ -37,40 +37,40 @@ python -c "import pandas as pd; df = pd.read_parquet('https://github.com/claudsk
 
 | Field | Value |
 |---|---|
-| Total skills | **121,707** |
+| Total skills | **138,209** |
 | Featured | 20 |
-| Daily-eligible (quality ≥ 80) | 11,596 |
-| Unique authors with ≥1 admitted skill | 14,111 |
+| Daily-eligible (quality ≥ 80) | 11,666 |
+| Unique authors with ≥1 admitted skill | 14,221 |
 | Categories | 10 |
 | Rows dropped this run (no attribution) | 0 |
-| Last refresh | **2026-06-24 06:34 UTC** |
+| Last refresh | **2026-06-25 06:38 UTC** |
 
 ### Top categories
 
 | Category | Skills |
 |---|---:|
-| general | 68,521 |
-| engineering | 20,352 |
-| security | 6,494 |
-| content | 5,952 |
-| science | 5,914 |
-| tools | 4,833 |
-| product | 4,481 |
-| growth | 2,948 |
-| sales | 1,869 |
-| ads | 343 |
+| general | 82,831 |
+| engineering | 20,571 |
+| security | 7,694 |
+| content | 6,049 |
+| science | 5,967 |
+| tools | 5,129 |
+| product | 4,592 |
+| growth | 3,117 |
+| sales | 1,907 |
+| ads | 352 |
 
 ### Top licenses
 
 | License | Skills |
 |---|---:|
-| `(unspecified)` | 73,269 |
-| `MIT` | 35,450 |
-| `Apache-2.0` | 10,602 |
-| `AGPL-3.0` | 622 |
-| `GPL-3.0` | 327 |
+| `(unspecified)` | 73,452 |
+| `MIT` | 35,879 |
+| `Apache-2.0` | 26,467 |
+| `AGPL-3.0` | 640 |
+| `GPL-3.0` | 330 |
 | `CC-BY-4.0` | 153 |
-| `BSD-3-Clause` | 142 |
+| `BSD-3-Clause` | 144 |
 | `NOASSERTION` | 122 |
 | `Complete terms in LICENSE.txt` | 91 |
 | `MIT + Commons Clause` | 85 |
@@ -79,16 +79,16 @@ python -c "import pandas as pd; df = pd.read_parquet('https://github.com/claudsk
 
 | Author | Skills |
 |---|---:|
-| [Klotzkette](https://claudskills.com/author/) | 8,088 |
+| [Klotzkette](https://claudskills.com/author/) | 23,897 |
 | [Jeremy Longshore <jeremy@intentsolutions.io>](https://claudskills.com/author/) | 3,387 |
 | [brycewang-stanford](https://claudskills.com/author/) | 2,503 |
-| [majiayu000](https://claudskills.com/author/) | 2,326 |
+| [majiayu000](https://claudskills.com/author/) | 2,333 |
 | [bg-szy](https://claudskills.com/author/) | 2,217 |
 | [CaseMark](https://claudskills.com/author/) | 2,071 |
 | [phamlongh230-lgtm](https://claudskills.com/author/) | 1,852 |
 | [ndesv21](https://claudskills.com/author/) | 1,179 |
 | [diegosouzapw](https://claudskills.com/author/) | 859 |
-| [dvcrn](https://claudskills.com/author/) | 787 |
+| [dvcrn](https://claudskills.com/author/) | 788 |
 
 ## Schema
 
@@ -127,10 +127,10 @@ Current upstream-attribution coverage (rows with at least one of
 
 | Field | Rows | % |
 |---|---:|---:|
-| `author` | 90,054 | 74.0% |
-| `source_url` | 89,099 | 73.2% |
-| `author_url` | 84,133 | 69.1% |
-| `license` | 48,438 | 39.8% |
+| `author` | 106,657 | 77.2% |
+| `source_url` | 105,702 | 76.5% |
+| `author_url` | 100,734 | 72.9% |
+| `license` | 64,757 | 46.9% |
 
 Upstream coverage grows organically each miner cycle as the
 `SKILL.md`-frontmatter backfill picks up newly-disclosed metadata.
