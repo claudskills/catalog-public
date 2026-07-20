@@ -4,13 +4,13 @@
   <link href="https://claudskills.com/"/>
   <link rel="self" href="https://github.com/claudskills/catalog-public/raw/main/feed.atom"/>
   <id>https://github.com/claudskills/catalog-public/feed.atom</id>
-  <updated>2026-07-19T05:40:45Z</updated>
+  <updated>2026-07-20T05:57:42Z</updated>
   <author><name>ClaudSkills</name></author>
   <entry>
     <title>zyte-api-automation</title>
     <link href="https://claudskills.com/skills/zyte-api-automation/"/>
     <id>https://claudskills.com/skills/zyte-api-automation/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>ClaudSkills</name></author>
     <summary>Automate Zyte API tasks via Rube MCP (Composio). Always search tools first for current schemas. — from general/automation</summary>
   </entry>
@@ -18,7 +18,7 @@
     <title>zyte-api</title>
     <link href="https://claudskills.com/skills/zyte-api/"/>
     <id>https://claudskills.com/skills/zyte-api/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>ClaudSkills</name></author>
     <summary>Zyte API integration. Manage data, records, and automate workflows. Use when the user wants to interact with Zyte API data.</summary>
   </entry>
@@ -26,7 +26,7 @@
     <title>zype</title>
     <link href="https://claudskills.com/skills/zype/"/>
     <id>https://claudskills.com/skills/zype/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>ClaudSkills</name></author>
     <summary>Zype integration. Manage data, records, and automate workflows. Use when the user wants to interact with Zype data.</summary>
   </entry>
@@ -34,7 +34,7 @@
     <title>zymtrace-anchored-query</title>
     <link href="https://claudskills.com/skills/zymtrace-anchored-query/"/>
     <id>https://claudskills.com/skills/zymtrace-anchored-query/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>cfregly</name></author>
     <summary>Reusable wrapper for the knowledge-base-first SQL pattern, adapted to the zymtrace ClickHouse profiling backend. Operator names the metric / question / time range. Skill anchors the `zymtrace_profiling.events` schema first (DESCRIBE + label-value + cardinality probes), derives the safe narrow SQL, runs it via `kubectl port-forward` + `curl -X POST`, and saves the raw payload to a provenance-bearing bundle per the perf-lake-contract. Workload-agnostic. The ClickHouse cousin of `prometheus-anchore</summary>
   </entry>
@@ -42,7 +42,7 @@
     <title>zylvie-automation</title>
     <link href="https://claudskills.com/skills/zylvie-automation/"/>
     <id>https://claudskills.com/skills/zylvie-automation/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>ClaudSkills</name></author>
     <summary>Automate Zylvie tasks via Rube MCP (Composio). Always search tools first for current schemas. — from general/automation</summary>
   </entry>
@@ -50,7 +50,7 @@
     <title>zylos-memory</title>
     <link href="https://claudskills.com/skills/zylos-memory/"/>
     <id>https://claudskills.com/skills/zylos-memory/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>zylos-ai</name></author>
     <summary>Core memory system. Maintains persistent memory across sessions via tiered markdown files following the Inside Out model. Handles Memory Sync (processing conversations into structured memory), session rotation, consolidation, and context-aware state saving. Must be launched via a runtime-appropriate background subagent mechanism — do not invoke with the Skill tool.</summary>
   </entry>
@@ -58,7 +58,7 @@
     <title>zyfai</title>
     <link href="https://claudskills.com/skills/zyfai-sdk/"/>
     <id>https://claudskills.com/skills/zyfai-sdk/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>ndesv21</name></author>
     <summary>Earn yield on any Ethereum wallet on Base, Arbitrum, and Plasma. Use when a user wants passive DeFi yield on their funds. Deploys a non-custodial deterministic subaccount (Safe) linked to their EOA, enables automated yield optimization, and lets them deposit/withdraw anytime.</summary>
   </entry>
@@ -66,7 +66,7 @@
     <title>zx-javascript-shell-script-runner</title>
     <link href="https://claudskills.com/skills/zx-javascript-shell-script-runner/"/>
     <id>https://claudskills.com/skills/zx-javascript-shell-script-runner/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>ClaudSkills</name></author>
     <summary>Write better shell scripts in JavaScript using Google's zx. Provides cross-platform wrappers around child_process with argument escaping, sensible defaults, and access to the full npm ecosystem for automation tasks.</summary>
   </entry>
@@ -74,7 +74,7 @@
     <title>zx</title>
     <link href="https://claudskills.com/skills/zx/"/>
     <id>https://claudskills.com/skills/zx/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>LeoYeAI</name></author>
     <summary>Comprehensive guide for writing shell scripts with Google zx — a tool for writing better scripts using JavaScript/TypeScript. Use when writing, debugging, or refactoring zx scripts (.mjs, .js, .ts files using zx), executing shell commands from JavaScript, working with ProcessPromise/ProcessOutput APIs, piping streams, configuring zx options, or using zx CLI.  Do NOT use for general Node.js questions unrelated to shell scripting.</summary>
   </entry>
@@ -82,7 +82,7 @@
     <title>zwvw-versteigerung-vs-verwaltung-spezial</title>
     <link href="https://claudskills.com/skills/zwvw-versteigerung-vs-verwaltung-spezial/"/>
     <id>https://claudskills.com/skills/zwvw-versteigerung-vs-verwaltung-spezial/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Spezialfall Zusammenspiel Zwangsversteigerung und Zwangsverwaltung: Aufhebung, Vorrang, Auskehrung. Pruefraster fuer Glaeubiger und Schuldner.</summary>
   </entry>
@@ -90,7 +90,7 @@
     <title>zwvw-mietverhaeltnis-bestand-leitfaden</title>
     <link href="https://claudskills.com/skills/zwvw-mietverhaeltnis-bestand-leitfaden/"/>
     <id>https://claudskills.com/skills/zwvw-mietverhaeltnis-bestand-leitfaden/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Leitfaden Bestand der Mietverhaeltnisse in Zwangsverwaltung § 152 ZVG: Eintritt des Verwalters, Mietzahlungen, Kuendigung. Pruefraster fuer Mieter und Verwalter.</summary>
   </entry>
@@ -98,7 +98,7 @@
     <title>zwvw-kostenrechnung-verwalter-spezial</title>
     <link href="https://claudskills.com/skills/zwvw-kostenrechnung-verwalter-spezial/"/>
     <id>https://claudskills.com/skills/zwvw-kostenrechnung-verwalter-spezial/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Spezialfall Kostenrechnung des Zwangsverwalters ZwVwV: Regelverguetung, Mehrverguetung, Auslagen. Pruefraster fuer Glaeubiger und Vollstreckungsgericht.</summary>
   </entry>
@@ -106,7 +106,7 @@
     <title>zwvw-anordnung-zwangsverwaltung-bauleiter</title>
     <link href="https://claudskills.com/skills/zwvw-anordnung-zwangsverwaltung-bauleiter/"/>
     <id>https://claudskills.com/skills/zwvw-anordnung-zwangsverwaltung-bauleiter/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Bauleiter Anordnung Zwangsverwaltung ZVG: Glaeubigerantrag, Anordnungsbeschluss, Verwalterbestellung. Pruefraster fuer Glaeubiger und Eigentuemer.</summary>
   </entry>
@@ -114,7 +114,7 @@
     <title>zwv-zwangsversteigerung-grundstueck-spezial</title>
     <link href="https://claudskills.com/skills/zwv-zwangsversteigerung-grundstueck-spezial/"/>
     <id>https://claudskills.com/skills/zwv-zwangsversteigerung-grundstueck-spezial/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Spezialfall Zwangsversteigerung Grundstueck ZVG: Anordnung, Termin, Mindestgebot, Geringstes Gebot, geringste Beitrag. Pruefraster fuer Glaeubiger und Schuldner.</summary>
   </entry>
@@ -122,7 +122,7 @@
     <title>zwv-vollstreckungstitel-bauleiter</title>
     <link href="https://claudskills.com/skills/zwv-vollstreckungstitel-bauleiter/"/>
     <id>https://claudskills.com/skills/zwv-vollstreckungstitel-bauleiter/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Bauleiter Vollstreckungstitel §§ 704 sowie 794 ZPO: Urteil, Vergleich, notarielle Urkunde, Vollstreckungsbescheid. Pruefraster fuer Vollstreckungs- und Klauselerteilung.</summary>
   </entry>
@@ -130,7 +130,7 @@
     <title>zwv-vollstreckungsschutz-billigkeit-spezial</title>
     <link href="https://claudskills.com/skills/zwv-vollstreckungsschutz-billigkeit-spezial/"/>
     <id>https://claudskills.com/skills/zwv-vollstreckungsschutz-billigkeit-spezial/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Spezialfall Vollstreckungsschutz § 765a ZPO Haerteklausel: Voraussetzungen, BVerfG-Rechtsprechung, sittenwidrige Haerte. Pruefraster fuer Schuldner und Sozialberatung.</summary>
   </entry>
@@ -138,7 +138,7 @@
     <title>zwv-pfaendung-konto-arbeitseinkommen-leitfaden</title>
     <link href="https://claudskills.com/skills/zwv-pfaendung-konto-arbeitseinkommen-leitfaden/"/>
     <id>https://claudskills.com/skills/zwv-pfaendung-konto-arbeitseinkommen-leitfaden/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Leitfaden Pfaendung Konto und Arbeitseinkommen §§ 850 ff. ZPO: P-Konto, pfaendungsfreier Betrag, Drittschuldnererklaerung. Pruefraster fuer Glaeubiger und Schuldner.</summary>
   </entry>
@@ -146,7 +146,7 @@
     <title>zwrm</title>
     <link href="https://claudskills.com/skills/zwrm/"/>
     <id>https://claudskills.com/skills/zwrm/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>zwrm-eu</name></author>
     <summary>MicroVM orchestration via the ZWRM CLI. Use this skill whenever the user wants to deploy an app, manage VMs, create sandboxes, manage Postgres databases, view logs, manage secrets, or connect to a coding agent. Also use when they say "deploy", "launch", "scale", "spin up a VM", "create a sandbox", "start a database", "check status", or reference managing infrastructure on ZWRM. This provides a complete control plane for deploying and managing lightweight Firecracker microVMs. Do NOT trigger for </summary>
   </entry>
@@ -154,7 +154,7 @@
     <title>005-zwoelftafelrecht-schuldhaft-nexum-und-soziale-ordnun</title>
     <link href="https://claudskills.com/skills/zwoelftafelrecht-schuldhaft-nexum-und-soziale-ordnun/"/>
     <id>https://claudskills.com/skills/zwoelftafelrecht-schuldhaft-nexum-und-soziale-ordnun/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung im Römisches Recht.</summary>
   </entry>
@@ -162,7 +162,7 @@
     <title>029-zwoelftafelrecht-in-heutiger-didaktik-ohne-scheinsic</title>
     <link href="https://claudskills.com/skills/zwoelftafelrecht-in-heutiger-didaktik-ohne-scheinsic/"/>
     <id>https://claudskills.com/skills/zwoelftafelrecht-in-heutiger-didaktik-ohne-scheinsic/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit im Römisches Recht. — from Klotzkette/claude-fuer-deutsches-recht</summary>
   </entry>
@@ -170,7 +170,7 @@
     <title>029-zwoelftafelrecht-heutiger</title>
     <link href="https://claudskills.com/skills/zwoelftafelrecht-heutiger/"/>
     <id>https://claudskills.com/skills/zwoelftafelrecht-heutiger/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit im Römisches Recht: Bearbeite Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit im Be — from Klotzkette/claude-fuer-deutsches-recht</summary>
   </entry>
@@ -178,7 +178,7 @@
     <title>003-zwoelftafelrecht-familiengewalt-erbrecht-und-nachbar</title>
     <link href="https://claudskills.com/skills/zwoelftafelrecht-familiengewalt-erbrecht-und-nachbar/"/>
     <id>https://claudskills.com/skills/zwoelftafelrecht-familiengewalt-erbrecht-und-nachbar/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft im Römisches Recht. — from Klotzkette/claude-fuer-deutsches-recht</summary>
   </entry>
@@ -186,7 +186,7 @@
     <title>003-zwoelftafelrecht-familiengewalt</title>
     <link href="https://claudskills.com/skills/zwoelftafelrecht-familiengewalt/"/>
     <id>https://claudskills.com/skills/zwoelftafelrecht-familiengewalt/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft im Römisches Recht: Bearbeite Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft im Bere — from Klotzkette/claude-fuer-deutsches-recht</summary>
   </entry>
@@ -194,7 +194,7 @@
     <title>004-zwoelftafelrecht-delikt-busse-talion-und-komposition</title>
     <link href="https://claudskills.com/skills/zwoelftafelrecht-delikt-busse-talion-und-komposition/"/>
     <id>https://claudskills.com/skills/zwoelftafelrecht-delikt-busse-talion-und-komposition/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition im Römisches Recht.</summary>
   </entry>
@@ -202,7 +202,7 @@
     <title>002-zwoelftafelgesetz-textzeugen-rekonstruktion-und-vors</title>
     <link href="https://claudskills.com/skills/zwoelftafelgesetz-textzeugen-rekonstruktion-und-vors/"/>
     <id>https://claudskills.com/skills/zwoelftafelgesetz-textzeugen-rekonstruktion-und-vors/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht im Römisches Recht. — from Klotzkette/claude-fuer-deutsches-recht</summary>
   </entry>
@@ -210,7 +210,7 @@
     <title>002-zwoelftafelgesetz-textzeugen</title>
     <link href="https://claudskills.com/skills/zwoelftafelgesetz-textzeugen/"/>
     <id>https://claudskills.com/skills/zwoelftafelgesetz-textzeugen/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht im Römisches Recht: Bearbeite Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht im Bereich — from Klotzkette/claude-fuer-deutsches-recht</summary>
   </entry>
@@ -218,7 +218,7 @@
     <title>zwoelftafelgesetz-quellenkritik</title>
     <link href="https://claudskills.com/skills/zwoelftafelgesetz-quellenkritik/"/>
     <id>https://claudskills.com/skills/zwoelftafelgesetz-quellenkritik/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Römisches Recht: Zwölftafelgesetz als frühe Quellenlage, Rekonstruktion, Fragment, spätere Überlieferung und methodische Grenzen. — from Klotzkette/claude-fuer-deutsches-recht</summary>
   </entry>
@@ -226,7 +226,7 @@
     <title>zwoelftafelgesetz-prozess-und-vollstreckung</title>
     <link href="https://claudskills.com/skills/zwoelftafelgesetz-prozess-und-vollstreckung/"/>
     <id>https://claudskills.com/skills/zwoelftafelgesetz-prozess-und-vollstreckung/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Römisches Recht: Zwölftafelgesetz zu archaischem Verfahren, Ladung, Urteil, Vollstreckung, Schuldhaft und Prozessformalismus im Römisches Recht. — from Klotzkette/claude-fuer-deutsches-recht</summary>
   </entry>
@@ -234,7 +234,7 @@
     <title>zwoelftafelgesetz-familie-erbe-nachbarschaft</title>
     <link href="https://claudskills.com/skills/zwoelftafelgesetz-familie-erbe-nachbarschaft/"/>
     <id>https://claudskills.com/skills/zwoelftafelgesetz-familie-erbe-nachbarschaft/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Römisches Recht: Zwölftafelgesetz zu Hausverband, patria potestas, Erbfolge, Vormundschaft, Nachbarschaft und Grenzkonflikten im Römisches Recht. — from Klotzkette/claude-fuer-deutsches-recht</summary>
   </entry>
@@ -242,7 +242,7 @@
     <title>zwoelftafelgesetz-delikte-und-sanktionen</title>
     <link href="https://claudskills.com/skills/zwoelftafelgesetz-delikte-und-sanktionen/"/>
     <id>https://claudskills.com/skills/zwoelftafelgesetz-delikte-und-sanktionen/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Römisches Recht: Zwölftafelgesetz zu furtum, iniuria, Sachschaden, Talion, Bußen, Sakralnähe und privater Sanktion im Römisches Recht. — from Klotzkette/claude-fuer-deutsches-recht</summary>
   </entry>
@@ -250,7 +250,7 @@
     <title>zwitterrecht-historisch</title>
     <link href="https://claudskills.com/skills/zwitterrecht-historisch/"/>
     <id>https://claudskills.com/skills/zwitterrecht-historisch/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Zwitterrecht ALR — historisch-medizinische Dimension. Skill ergaenzt die Norm um die Praxis Eintraege im Kirchenbuch Schule Standesregister und die rechtsfolgen für Eheschliessung Erbrecht Wehrdienst. Liefert rechtshistorische Prüfraster.</summary>
   </entry>
@@ -258,7 +258,7 @@
     <title>zwitterrecht-alr-ii-1-19-bis-22</title>
     <link href="https://claudskills.com/skills/zwitterrecht-alr-ii-1-19-bis-22/"/>
     <id>https://claudskills.com/skills/zwitterrecht-alr-ii-1-19-bis-22/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Zwitterrecht nach ALR — das beruehmte preussische Sonderrecht der Wahlmoeglichkeit. ALR II 1 §§ 19 bis 22 regelte das Geschlecht der Zwitter (Hermaphroditen): Eltern bestimmen Geschlecht bis 18 Jahre danach Wahlrecht des Betroffenen. Skill behandelt Norm Inhalt rechtshistorische Bedeutung und die...</summary>
   </entry>
@@ -266,7 +266,7 @@
     <title>07-zwischenverfuegung-und-beschwerde</title>
     <link href="https://claudskills.com/skills/zwischenverfuegung-und-beschwerde/"/>
     <id>https://claudskills.com/skills/zwischenverfuegung-und-beschwerde/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Zwischenverfuegung Paragraf 382 FamFG, Frist setzen, Hinweisbeschluss; Beschwerde Paragrafen 58-72 FamFG, Abhilfe; Rechtsbeschwerde Paragrafen 70 ff.</summary>
   </entry>
@@ -274,7 +274,7 @@
     <title>zwischenverfuegung-registergericht</title>
     <link href="https://claudskills.com/skills/zwischenverfuegung-registergericht/"/>
     <id>https://claudskills.com/skills/zwischenverfuegung-registergericht/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Notariat im Alltag: Zwischenverfügung Registergericht – Antwortstrategie und Frist. Typische Beanstandungen bei HR- und Grundbuchanmeldungen, Nachreichungsstrategien, Fristverlängerung und Beschwerde im Notariat.</summary>
   </entry>
@@ -282,7 +282,7 @@
     <title>zwischenverfuegung-paragraph-18-gbo</title>
     <link href="https://claudskills.com/skills/zwischenverfuegung-paragraph-18-gbo/"/>
     <id>https://claudskills.com/skills/zwischenverfuegung-paragraph-18-gbo/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Analysiert beanstandete Hindernisse, Behebbarkeit, Rangwahrung, Frist und Antwortstrategie im Grundbuchamt Praxis.</summary>
   </entry>
@@ -290,7 +290,7 @@
     <title>zwischenverfahren-69-owig</title>
     <link href="https://claudskills.com/skills/zwischenverfahren-69-owig/"/>
     <id>https://claudskills.com/skills/zwischenverfahren-69-owig/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Zwischenverfahren § 69 OWiG: Nach Einspruch Rücknahme, weitere Ermittlungen oder Vorlage über Staatsanwaltschaft an das Gericht taktisch nutzen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.</summary>
   </entry>
@@ -298,7 +298,7 @@
     <title>zwischenschritte-ma</title>
     <link href="https://claudskills.com/skills/zwischenschritte-ma/"/>
     <id>https://claudskills.com/skills/zwischenschritte-ma/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Analysiert Insiderinformation bei mehrstufigen Prozessen (M&amp;A, Restrukturierung) nach dem EuGH-Geltl/Daimler-Standard für Zwischenschritte im Insiderrecht Compliance.</summary>
   </entry>
@@ -306,7 +306,7 @@
     <title>zwiezle</title>
     <link href="https://claudskills.com/skills/zwiezle/"/>
     <id>https://claudskills.com/skills/zwiezle/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>ClaudSkills</name></author>
     <summary>Przełącz agenta na zwięzły polski. Trzy poziomy intensywności oszczędzania tokenów.</summary>
   </entry>
@@ -314,7 +314,7 @@
     <title>zweitpruefer-befangenheit</title>
     <link href="https://claudskills.com/skills/zweitpruefer-befangenheit/"/>
     <id>https://claudskills.com/skills/zweitpruefer-befangenheit/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Prüft Prüferbestellung, Befangenheit, Zweitkorrektur und Bewertungsunabhängigkeit im Prüfungsrecht Hochschule.</summary>
   </entry>
@@ -322,7 +322,7 @@
     <title>zweitkorrektur-neubewertung-zweitpruefer</title>
     <link href="https://claudskills.com/skills/zweitkorrektur-neubewertung-zweitpruefer/"/>
     <id>https://claudskills.com/skills/zweitkorrektur-neubewertung-zweitpruefer/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>Prüft Zweitkorrektur, Neubewertung und Austausch des Prüfers im Prüfungsrecht Hochschule.</summary>
   </entry>
@@ -330,7 +330,7 @@
     <title>026-zweiter-teil-strafrecht-20-titel-quellenkritisch</title>
     <link href="https://claudskills.com/skills/zweiter-teil-strafrecht-20-titel-quellenkritisch/"/>
     <id>https://claudskills.com/skills/zweiter-teil-strafrecht-20-titel-quellenkritisch/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung.</summary>
   </entry>
@@ -338,7 +338,7 @@
     <title>025-zweiter-teil-staatsdiener-amtspflichten</title>
     <link href="https://claudskills.com/skills/zweiter-teil-staatsdiener-amtspflichten/"/>
     <id>https://claudskills.com/skills/zweiter-teil-staatsdiener-amtspflichten/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>PrALR: Zweiter Teil Staatsdiener Amtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung.</summary>
   </entry>
@@ -346,7 +346,7 @@
     <title>024-zweiter-teil-kirchen-schule-armenwesen</title>
     <link href="https://claudskills.com/skills/zweiter-teil-kirchen-schule-armenwesen/"/>
     <id>https://claudskills.com/skills/zweiter-teil-kirchen-schule-armenwesen/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>PrALR: Zweiter Teil Kirchen Schule Armenwesen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung.</summary>
   </entry>
@@ -354,7 +354,7 @@
     <title>023-zweiter-teil-gemeinderecht-staedte-doerfer-polizei</title>
     <link href="https://claudskills.com/skills/zweiter-teil-gemeinderecht-staedte-doerfer-polizei/"/>
     <id>https://claudskills.com/skills/zweiter-teil-gemeinderecht-staedte-doerfer-polizei/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung.</summary>
   </entry>
@@ -362,7 +362,7 @@
     <title>021-zweiter-teil-familienrecht-ehe-vormundschaft</title>
     <link href="https://claudskills.com/skills/zweiter-teil-familienrecht-ehe-vormundschaft/"/>
     <id>https://claudskills.com/skills/zweiter-teil-familienrecht-ehe-vormundschaft/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung.</summary>
   </entry>
@@ -370,7 +370,7 @@
     <title>026-zweiter-strafrecht-20-titel</title>
     <link href="https://claudskills.com/skills/zweiter-strafrecht-20-titel/"/>
     <id>https://claudskills.com/skills/zweiter-strafrecht-20-titel/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt.</summary>
   </entry>
@@ -378,7 +378,7 @@
     <title>zweiter-staendeordnung-gemeinderecht</title>
     <link href="https://claudskills.com/skills/zweiter-staendeordnung-gemeinderecht/"/>
     <id>https://claudskills.com/skills/zweiter-staendeordnung-gemeinderecht/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung.</summary>
   </entry>
@@ -386,7 +386,7 @@
     <title>022-zweiter-staendeordnung-adel</title>
     <link href="https://claudskills.com/skills/zweiter-staendeordnung-adel/"/>
     <id>https://claudskills.com/skills/zweiter-staendeordnung-adel/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt.</summary>
   </entry>
@@ -394,7 +394,7 @@
     <title>025-zweiter-staatsdiener</title>
     <link href="https://claudskills.com/skills/zweiter-staatsdiener/"/>
     <id>https://claudskills.com/skills/zweiter-staatsdiener/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>PrALR: Zweiter Teil Staatsdiener Amtspflichten: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt.</summary>
   </entry>
@@ -402,7 +402,7 @@
     <title>024-zweiter-kirchen-schule</title>
     <link href="https://claudskills.com/skills/zweiter-kirchen-schule/"/>
     <id>https://claudskills.com/skills/zweiter-kirchen-schule/</id>
-    <updated>2026-07-19T00:00:00Z</updated>
+    <updated>2026-07-20T00:00:00Z</updated>
     <author><name>Klotzkette</name></author>
     <summary>PrALR: Zweiter Teil Kirchen Schule Armenwesen: historische Normkarte mit Quellenkritik, Begriffsklärung, 1794/1804-Abgleich, heutiger Vergleichslinie und verwertbarem Arbeitsprodukt.</summary>
   </entry>
