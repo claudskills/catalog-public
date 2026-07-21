@@ -43,7 +43,7 @@ python -c "import pandas as pd; df = pd.read_parquet('https://github.com/claudsk
 | Unique authors with ≥1 admitted skill | 16,537 |
 | Categories | 10 |
 | Rows dropped this run (no attribution) | 0 |
-| Last refresh | **2026-07-20 05:57 UTC** |
+| Last refresh | **2026-07-21 05:39 UTC** |
 
 ### Top categories
 
