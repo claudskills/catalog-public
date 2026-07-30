@@ -6,7 +6,7 @@
 
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Daily refresh](https://img.shields.io/badge/refresh-daily%2003%3A00%20UTC-green)](https://github.com/claudskills/catalog-public/actions)
-[![Total skills](https://img.shields.io/badge/skills-163,218-brightgreen)](https://claudskills.com)
+[![Total skills](https://img.shields.io/badge/skills-164,389-brightgreen)](https://claudskills.com)
 
 ## What's here
 
@@ -37,38 +37,38 @@ python -c "import pandas as pd; df = pd.read_parquet('https://github.com/claudsk
 
 | Field | Value |
 |---|---|
-| Total skills | **163,218** |
+| Total skills | **164,389** |
 | Featured | 20 |
-| Daily-eligible (quality ≥ 80) | 15,661 |
-| Unique authors with ≥1 admitted skill | 17,406 |
+| Daily-eligible (quality ≥ 80) | 15,729 |
+| Unique authors with ≥1 admitted skill | 17,461 |
 | Categories | 10 |
 | Rows dropped this run (no attribution) | 0 |
-| Last refresh | **2026-07-29 05:41 UTC** |
+| Last refresh | **2026-07-30 05:30 UTC** |
 
 ### Top categories
 
 | Category | Skills |
 |---|---:|
-| general | 96,759 |
-| engineering | 23,995 |
-| security | 8,927 |
-| science | 7,668 |
-| content | 7,391 |
-| tools | 5,971 |
-| product | 5,687 |
-| growth | 3,895 |
-| sales | 2,494 |
-| ads | 431 |
+| general | 97,408 |
+| engineering | 24,130 |
+| security | 8,999 |
+| science | 7,754 |
+| content | 7,472 |
+| tools | 5,996 |
+| product | 5,743 |
+| growth | 3,932 |
+| sales | 2,516 |
+| ads | 439 |
 
 ### Top licenses
 
 | License | Skills |
 |---|---:|
-| `(unspecified)` | 80,126 |
-| `MIT` | 47,197 |
-| `Apache-2.0` | 32,019 |
-| `AGPL-3.0` | 1,658 |
-| `GPL-3.0` | 497 |
+| `(unspecified)` | 80,163 |
+| `MIT` | 48,072 |
+| `Apache-2.0` | 32,232 |
+| `AGPL-3.0` | 1,667 |
+| `GPL-3.0` | 534 |
 | `BSD-3-Clause` | 192 |
 | `CC-BY-4.0` | 159 |
 | `CC-BY-SA-4.0` | 125 |
@@ -127,10 +127,10 @@ Current upstream-attribution coverage (rows with at least one of
 
 | Field | Rows | % |
 |---|---:|---:|
-| `author` | 133,113 | 81.6% |
-| `source_url` | 132,278 | 81.0% |
-| `author_url` | 127,183 | 77.9% |
-| `license` | 83,092 | 50.9% |
+| `author` | 134,310 | 81.7% |
+| `source_url` | 133,475 | 81.2% |
+| `author_url` | 128,380 | 78.1% |
+| `license` | 84,226 | 51.2% |
 
 Upstream coverage grows organically each miner cycle as the
 `SKILL.md`-frontmatter backfill picks up newly-disclosed metadata.
